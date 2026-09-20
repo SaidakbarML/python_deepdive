@@ -52,6 +52,7 @@ function renderItem(item, statuses) {
   select.addEventListener("change", () => {
     saveStatus(item.id, select.value);
     li.className = "item" + (select.value === "done" ? " done" : "");
+    updateProgress();
   });
 
   li.appendChild(a);
@@ -90,6 +91,27 @@ function countItems(groups) {
   return groups.reduce((sum, g) => sum + g.items.length, 0);
 }
 
+function updateProgress() {
+  const total = countItems(allGroups);
+  const fill = document.getElementById("progress-fill");
+  const text = document.getElementById("progress-text");
+  if (total === 0) {
+    fill.style.width = "0%";
+    text.textContent = "";
+    return;
+  }
+
+  const statuses = loadStatuses();
+  let done = 0;
+  allGroups.forEach((g) => g.items.forEach((item) => {
+    if (statuses[item.id] === "done") done += 1;
+  }));
+
+  const pct = Math.round((done / total) * 100);
+  fill.style.width = `${pct}%`;
+  text.textContent = `${pct}% complete — ${done} of ${total} videos done`;
+}
+
 function applyFilter() {
   const statusEl = document.getElementById("status");
   const query = document.getElementById("search").value.trim().toLowerCase();
@@ -110,6 +132,7 @@ function applyFilter() {
   }
 
   render(filtered);
+  updateProgress();
 }
 
 async function main() {
