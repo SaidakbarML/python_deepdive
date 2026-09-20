@@ -51,7 +51,7 @@ async function sync() {
     });
   }
 
-  items.sort((a, b) => new Date(b.date) - new Date(a.date));
+  items.sort((a, b) => new Date(a.date) - new Date(b.date));
 
   fs.mkdirSync(path.dirname(DATA_FILE), { recursive: true });
   fs.writeFileSync(DATA_FILE, JSON.stringify(items, null, 2));

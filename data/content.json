@@ -1,2277 +1,9 @@
 [
   {
-    "id": "1234",
-    "title": "🎬 2. Marshmallow",
-    "date": "2026-09-14T13:34:13.000Z",
-    "link": "https://t.me/sm1523/1234"
-  },
-  {
-    "id": "1231",
-    "title": "🎬 1. The MappingProxy Type",
-    "date": "2026-09-14T13:31:19.000Z",
-    "link": "https://t.me/sm1523/1231"
-  },
-  {
-    "id": "1227",
-    "title": "🎬 3. Python 3.8 3.7",
-    "date": "2026-09-14T13:31:04.000Z",
-    "link": "https://t.me/sm1523/1227"
-  },
-  {
-    "id": "1224",
-    "title": "🎬 2. Python 3.9",
-    "date": "2026-09-14T13:29:44.000Z",
-    "link": "https://t.me/sm1523/1224"
-  },
-  {
-    "id": "1221",
-    "title": "🎬 1. Python 3.10",
-    "date": "2026-09-14T13:28:44.000Z",
-    "link": "https://t.me/sm1523/1221"
-  },
-  {
-    "id": "1217",
-    "title": "🎬 4. Solution 3",
-    "date": "2026-09-14T13:27:35.000Z",
-    "link": "https://t.me/sm1523/1217"
-  },
-  {
-    "id": "1214",
-    "title": "🎬 3. Solution 2",
-    "date": "2026-09-14T13:25:52.000Z",
-    "link": "https://t.me/sm1523/1214"
-  },
-  {
-    "id": "1211",
-    "title": "🎬 2. Solution 1",
-    "date": "2026-09-14T13:25:31.000Z",
-    "link": "https://t.me/sm1523/1211"
-  },
-  {
-    "id": "1208",
-    "title": "🎬 1. Exercises",
-    "date": "2026-09-14T13:25:08.000Z",
-    "link": "https://t.me/sm1523/1208"
-  },
-  {
-    "id": "1204",
-    "title": "🎬 12. UserDict - Coding",
-    "date": "2026-09-14T13:24:33.000Z",
-    "link": "https://t.me/sm1523/1204"
-  },
-  {
-    "id": "1201",
-    "title": "🎬 11. UserDict - Lecture",
-    "date": "2026-09-14T13:20:49.000Z",
-    "link": "https://t.me/sm1523/1201"
-  },
-  {
-    "id": "1198",
-    "title": "🎬 10. ChainMap - Coding",
-    "date": "2026-09-14T13:19:02.000Z",
-    "link": "https://t.me/sm1523/1198"
-  },
-  {
-    "id": "1195",
-    "title": "🎬 9. ChainMap - Lecture",
-    "date": "2026-09-14T13:15:54.000Z",
-    "link": "https://t.me/sm1523/1195"
-  },
-  {
-    "id": "1192",
-    "title": "🎬 8. Counter - Coding",
-    "date": "2026-09-14T13:12:34.000Z",
-    "link": "https://t.me/sm1523/1192"
-  },
-  {
-    "id": "1189",
-    "title": "🎬 7. Counter - Lecture",
-    "date": "2026-09-14T13:09:25.000Z",
-    "link": "https://t.me/sm1523/1189"
-  },
-  {
-    "id": "1186",
-    "title": "🎬 6. OrderedDict and Python 3.6 Dicts",
-    "date": "2026-09-14T13:07:49.000Z",
-    "link": "https://t.me/sm1523/1186"
-  },
-  {
-    "id": "1183",
-    "title": "🎬 5. OrderedDict - Coding",
-    "date": "2026-09-14T13:06:42.000Z",
-    "link": "https://t.me/sm1523/1183"
-  },
-  {
-    "id": "1180",
-    "title": "🎬 4. OrderedDict - Lecture",
-    "date": "2026-09-14T13:04:21.000Z",
-    "link": "https://t.me/sm1523/1180"
-  },
-  {
-    "id": "1177",
-    "title": "🎬 3. DefaultDict - Coding",
-    "date": "2026-09-14T13:03:07.000Z",
-    "link": "https://t.me/sm1523/1177"
-  },
-  {
-    "id": "1174",
-    "title": "🎬 2. DefaultDict - Lecture",
-    "date": "2026-09-14T13:00:03.000Z",
-    "link": "https://t.me/sm1523/1174"
-  },
-  {
-    "id": "1172",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-14T12:58:02.000Z",
-    "link": "https://t.me/sm1523/1172"
-  },
-  {
-    "id": "1168",
-    "title": "🎬 4. Solution 3",
-    "date": "2026-09-14T12:57:18.000Z",
-    "link": "https://t.me/sm1523/1168"
-  },
-  {
-    "id": "1165",
-    "title": "🎬 3. Solution 2",
-    "date": "2026-09-14T12:55:18.000Z",
-    "link": "https://t.me/sm1523/1165"
-  },
-  {
-    "id": "1162",
-    "title": "🎬 2. Solution 1",
-    "date": "2026-09-14T12:53:21.000Z",
-    "link": "https://t.me/sm1523/1162"
-  },
-  {
-    "id": "1159",
-    "title": "🎬 1. Exercises",
-    "date": "2026-09-14T12:52:07.000Z",
-    "link": "https://t.me/sm1523/1159"
-  },
-  {
-    "id": "1155",
-    "title": "🎬 17. Serpy",
-    "date": "2026-09-14T12:51:34.000Z",
-    "link": "https://t.me/sm1523/1155"
-  },
-  {
-    "id": "1152",
-    "title": "🎬 16. PyYaml",
-    "date": "2026-09-14T12:51:07.000Z",
-    "link": "https://t.me/sm1523/1152"
-  },
-  {
-    "id": "1148",
-    "title": "🎬 14. JSON Schema",
-    "date": "2026-09-14T12:49:29.000Z",
-    "link": "https://t.me/sm1523/1148"
-  },
-  {
-    "id": "1145",
-    "title": "🎬 13. Using JSONDecoder - Coding",
-    "date": "2026-09-14T12:48:21.000Z",
-    "link": "https://t.me/sm1523/1145"
-  },
-  {
-    "id": "1142",
-    "title": "🎬 12. Using JSONDecoder - Lecture",
-    "date": "2026-09-14T12:45:39.000Z",
-    "link": "https://t.me/sm1523/1142"
-  },
-  {
-    "id": "1139",
-    "title": "🎬 11. Custom JSON Decoding - Coding",
-    "date": "2026-09-14T12:44:53.000Z",
-    "link": "https://t.me/sm1523/1139"
-  },
-  {
-    "id": "1136",
-    "title": "🎬 10. Custom JSON Decoding - Lecture",
-    "date": "2026-09-14T12:38:33.000Z",
-    "link": "https://t.me/sm1523/1136"
-  },
-  {
-    "id": "1133",
-    "title": "🎬 9. Using JSONEncoder - Coding",
-    "date": "2026-09-14T12:32:24.000Z",
-    "link": "https://t.me/sm1523/1133"
-  },
-  {
-    "id": "1130",
-    "title": "🎬 8. Using JSONEncoder - Lecture",
-    "date": "2026-09-14T12:26:45.000Z",
-    "link": "https://t.me/sm1523/1130"
-  },
-  {
-    "id": "1127",
-    "title": "🎬 7. Custom JSON Encoding - Coding",
-    "date": "2026-09-14T12:22:48.000Z",
-    "link": "https://t.me/sm1523/1127"
-  },
-  {
-    "id": "1124",
-    "title": "🎬 6. Custom JSON Encoding - Lecture",
-    "date": "2026-09-14T12:17:27.000Z",
-    "link": "https://t.me/sm1523/1124"
-  },
-  {
-    "id": "1121",
-    "title": "🎬 5. JSON Serialization - Coding",
-    "date": "2026-09-14T12:03:57.000Z",
-    "link": "https://t.me/sm1523/1121"
-  },
-  {
-    "id": "1118",
-    "title": "🎬 4. JSON Serialization - Lecture",
-    "date": "2026-09-14T11:57:35.000Z",
-    "link": "https://t.me/sm1523/1118"
-  },
-  {
-    "id": "1115",
-    "title": "🎬 3. Pickling - Coding",
-    "date": "2026-09-14T11:54:07.000Z",
-    "link": "https://t.me/sm1523/1115"
-  },
-  {
-    "id": "1112",
-    "title": "🎬 2. Pickling - Lecture",
-    "date": "2026-09-14T11:48:24.000Z",
-    "link": "https://t.me/sm1523/1112"
-  },
-  {
-    "id": "1110",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-14T11:46:34.000Z",
-    "link": "https://t.me/sm1523/1110"
-  },
-  {
-    "id": "1106",
-    "title": "🎬 2. Project 1 - Solution",
-    "date": "2026-09-14T11:45:13.000Z",
-    "link": "https://t.me/sm1523/1106"
-  },
-  {
-    "id": "1103",
-    "title": "🎬 1. Project 1 - Goals",
-    "date": "2026-09-14T11:41:19.000Z",
-    "link": "https://t.me/sm1523/1103"
-  },
-  {
-    "id": "1099",
-    "title": "🎬 17. Dictionary Views - Coding",
-    "date": "2026-09-14T11:40:49.000Z",
-    "link": "https://t.me/sm1523/1099"
-  },
-  {
-    "id": "1096",
-    "title": "🎬 16. Dictionary Views - Lecture",
-    "date": "2026-09-14T11:36:06.000Z",
-    "link": "https://t.me/sm1523/1096"
-  },
-  {
-    "id": "1093",
-    "title": "🎬 15. Frozen Sets - Coding",
-    "date": "2026-09-14T11:32:26.000Z",
-    "link": "https://t.me/sm1523/1093"
-  },
-  {
-    "id": "1090",
-    "title": "🎬 14. Frozen Sets - Lecture",
-    "date": "2026-09-14T11:29:12.000Z",
-    "link": "https://t.me/sm1523/1090"
-  },
-  {
-    "id": "1087",
-    "title": "🎬 13. Copying Sets - Coding",
-    "date": "2026-09-14T11:27:10.000Z",
-    "link": "https://t.me/sm1523/1087"
-  },
-  {
-    "id": "1084",
-    "title": "🎬 12. Copying Sets - Lecture",
-    "date": "2026-09-14T11:25:57.000Z",
-    "link": "https://t.me/sm1523/1084"
-  },
-  {
-    "id": "1081",
-    "title": "🎬 11. Update Operations - Coding",
-    "date": "2026-09-14T11:25:33.000Z",
-    "link": "https://t.me/sm1523/1081"
-  },
-  {
-    "id": "1078",
-    "title": "🎬 10. Update Operations - Lecture",
-    "date": "2026-09-14T11:22:38.000Z",
-    "link": "https://t.me/sm1523/1078"
-  },
-  {
-    "id": "1075",
-    "title": "🎬 9. Set Operations - Coding",
-    "date": "2026-09-14T11:20:27.000Z",
-    "link": "https://t.me/sm1523/1075"
-  },
-  {
-    "id": "1072",
-    "title": "🎬 8. Set Operations - Lecture",
-    "date": "2026-09-14T11:19:43.000Z",
-    "link": "https://t.me/sm1523/1072"
-  },
-  {
-    "id": "1069",
-    "title": "🎬 7. Common Operations - Coding",
-    "date": "2026-09-14T11:15:07.000Z",
-    "link": "https://t.me/sm1523/1069"
-  },
-  {
-    "id": "1066",
-    "title": "🎬 6. Common Operations - Lecture",
-    "date": "2026-09-14T11:11:59.000Z",
-    "link": "https://t.me/sm1523/1066"
-  },
-  {
-    "id": "1063",
-    "title": "🎬 5. Creating Sets - Coding",
-    "date": "2026-09-14T11:10:03.000Z",
-    "link": "https://t.me/sm1523/1063"
-  },
-  {
-    "id": "1060",
-    "title": "🎬 4. Creating Sets - Lecture",
-    "date": "2026-09-14T11:07:53.000Z",
-    "link": "https://t.me/sm1523/1060"
-  },
-  {
-    "id": "1057",
-    "title": "🎬 3. Python Sets",
-    "date": "2026-09-14T11:02:37.000Z",
-    "link": "https://t.me/sm1523/1057"
-  },
-  {
-    "id": "1054",
-    "title": "🎬 2. Basic Set Theory",
-    "date": "2026-09-14T10:55:21.000Z",
-    "link": "https://t.me/sm1523/1054"
-  },
-  {
-    "id": "1052",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-14T10:47:14.000Z",
-    "link": "https://t.me/sm1523/1052"
-  },
-  {
-    "id": "1048",
-    "title": "🎬 5. Solution 4",
-    "date": "2026-09-14T10:46:20.000Z",
-    "link": "https://t.me/sm1523/1048"
-  },
-  {
-    "id": "1045",
-    "title": "🎬 4. Solution 3",
-    "date": "2026-09-14T10:45:59.000Z",
-    "link": "https://t.me/sm1523/1045"
-  },
-  {
-    "id": "1042",
-    "title": "🎬 3. Solution 2",
-    "date": "2026-09-14T10:45:27.000Z",
-    "link": "https://t.me/sm1523/1042"
-  },
-  {
-    "id": "1039",
-    "title": "🎬 2. Solution 1",
-    "date": "2026-09-14T10:45:19.000Z",
-    "link": "https://t.me/sm1523/1039"
-  },
-  {
-    "id": "1036",
-    "title": "🎬 1. Exercises",
-    "date": "2026-09-14T10:44:48.000Z",
-    "link": "https://t.me/sm1523/1036"
-  },
-  {
-    "id": "1032",
-    "title": "🎬 11. Custom Classes and Hashing - Coding",
-    "date": "2026-09-14T10:43:21.000Z",
-    "link": "https://t.me/sm1523/1032"
-  },
-  {
-    "id": "1029",
-    "title": "🎬 10. Custom Classes and Hashing - Lecture",
-    "date": "2026-09-14T10:38:45.000Z",
-    "link": "https://t.me/sm1523/1029"
-  },
-  {
-    "id": "1026",
-    "title": "🎬 9. Updating, Merging, and Copying - Coding",
-    "date": "2026-09-14T10:29:59.000Z",
-    "link": "https://t.me/sm1523/1026"
-  },
-  {
-    "id": "1024",
-    "title": "🎬 8. Updating, Merging, and Copying - Lecture",
-    "date": "2026-09-14T10:24:38.000Z",
-    "link": "https://t.me/sm1523/1024"
-  },
-  {
-    "id": "1021",
-    "title": "🎬 7. Dictionary Views - Coding",
-    "date": "2026-09-14T10:19:17.000Z",
-    "link": "https://t.me/sm1523/1021"
-  },
-  {
-    "id": "1018",
-    "title": "🎬 6. Dictionary Views - Lecture",
-    "date": "2026-09-14T10:14:49.000Z",
-    "link": "https://t.me/sm1523/1018"
-  },
-  {
-    "id": "1015",
-    "title": "🎬 5. Common Operations - Coding",
-    "date": "2026-09-14T10:10:19.000Z",
-    "link": "https://t.me/sm1523/1015"
-  },
-  {
-    "id": "1012",
-    "title": "🎬 4. Common Operations - Lecture",
-    "date": "2026-09-14T10:06:09.000Z",
-    "link": "https://t.me/sm1523/1012"
-  },
-  {
-    "id": "1009",
-    "title": "🎬 3. Creating Dictionaries - Coding",
-    "date": "2026-09-14T10:03:04.000Z",
-    "link": "https://t.me/sm1523/1009"
-  },
-  {
-    "id": "1007",
-    "title": "🎬 2. Creating Dictionaries - Lecture",
-    "date": "2026-09-14T09:59:31.000Z",
-    "link": "https://t.me/sm1523/1007"
-  },
-  {
-    "id": "1005",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-14T09:54:38.000Z",
-    "link": "https://t.me/sm1523/1005"
-  },
-  {
-    "id": "1001",
-    "title": "🎬 5. Python's hash() Function",
-    "date": "2026-09-14T09:52:16.000Z",
-    "link": "https://t.me/sm1523/1001"
-  },
-  {
-    "id": "998",
-    "title": "🎬 4. Python Dictionaries",
-    "date": "2026-09-14T09:47:48.000Z",
-    "link": "https://t.me/sm1523/998"
-  },
-  {
-    "id": "995",
-    "title": "🎬 3. Hash Maps",
-    "date": "2026-09-14T09:42:02.000Z",
-    "link": "https://t.me/sm1523/995"
-  },
-  {
-    "id": "992",
-    "title": "🎬 2. Associative Arrays",
-    "date": "2026-09-14T09:33:54.000Z",
-    "link": "https://t.me/sm1523/992"
-  },
-  {
-    "id": "990",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-14T09:31:59.000Z",
-    "link": "https://t.me/sm1523/990"
-  },
-  {
-    "id": "985",
-    "title": "🎬 2. Prerequisites",
-    "date": "2026-09-14T09:30:12.000Z",
-    "link": "https://t.me/sm1523/985"
-  },
-  {
-    "id": "983",
+    "id": "41",
     "title": "🎬 1. Course Overview",
-    "date": "2026-09-14T09:29:38.000Z",
-    "link": "https://t.me/sm1523/983"
-  },
-  {
-    "id": "978",
-    "title": "🎬 002 Project Solution",
-    "date": "2026-09-14T09:28:21.000Z",
-    "link": "https://t.me/sm1523/978"
-  },
-  {
-    "id": "975",
-    "title": "🎬 001 Project Description",
-    "date": "2026-09-14T09:27:43.000Z",
-    "link": "https://t.me/sm1523/975"
-  },
-  {
-    "id": "971",
-    "title": "🎬 026 Application - Pipelines - Broadcasting Data",
-    "date": "2026-09-14T09:27:31.000Z",
-    "link": "https://t.me/sm1523/971"
-  },
-  {
-    "id": "968",
-    "title": "🎬 025 Application - Pipelines - Pushing Data",
-    "date": "2026-09-14T09:25:33.000Z",
-    "link": "https://t.me/sm1523/968"
-  },
-  {
-    "id": "965",
-    "title": "🎬 024 Application - Pipelines - Pulling Data",
-    "date": "2026-09-14T09:25:15.000Z",
-    "link": "https://t.me/sm1523/965"
-  },
-  {
-    "id": "962",
-    "title": "🎬 023 Application - Pipelines - Lecture",
-    "date": "2026-09-14T09:22:52.000Z",
-    "link": "https://t.me/sm1523/962"
-  },
-  {
-    "id": "959",
-    "title": "🎬 022 Yield From - Throwing Exceptions - Coding",
-    "date": "2026-09-14T09:21:59.000Z",
-    "link": "https://t.me/sm1523/959"
-  },
-  {
-    "id": "956",
-    "title": "🎬 021 Yield From - Throwing Exceptions - Lecture",
-    "date": "2026-09-14T09:19:18.000Z",
-    "link": "https://t.me/sm1523/956"
-  },
-  {
-    "id": "953",
-    "title": "🎬 020 Yield From - Closing and Return - Coding",
-    "date": "2026-09-14T09:18:46.000Z",
-    "link": "https://t.me/sm1523/953"
-  },
-  {
-    "id": "950",
-    "title": "🎬 019 Yield From - Closing and Return - Lecture",
-    "date": "2026-09-14T09:15:46.000Z",
-    "link": "https://t.me/sm1523/950"
-  },
-  {
-    "id": "947",
-    "title": "🎬 018 Yield From - Sending Data - Coding",
-    "date": "2026-09-14T09:14:26.000Z",
-    "link": "https://t.me/sm1523/947"
-  },
-  {
-    "id": "944",
-    "title": "🎬 017 Yield From - Sending Data - Lecture",
-    "date": "2026-09-14T09:10:20.000Z",
-    "link": "https://t.me/sm1523/944"
-  },
-  {
-    "id": "941",
-    "title": "🎬 016 Yield From - Two-Way Communications - Coding",
-    "date": "2026-09-14T09:09:29.000Z",
-    "link": "https://t.me/sm1523/941"
-  },
-  {
-    "id": "938",
-    "title": "🎬 015 Yield From - Two-Way Communications - Lecture",
-    "date": "2026-09-14T09:07:22.000Z",
-    "link": "https://t.me/sm1523/938"
-  },
-  {
-    "id": "935",
-    "title": "🎬 014 Using Decorators to Prime Coroutines - Coding",
-    "date": "2026-09-14T09:05:43.000Z",
-    "link": "https://t.me/sm1523/935"
-  },
-  {
-    "id": "932",
-    "title": "🎬 013 Using Decorators to Prime Coroutines - Lecture",
-    "date": "2026-09-14T09:03:24.000Z",
-    "link": "https://t.me/sm1523/932"
-  },
-  {
-    "id": "929",
-    "title": "🎬 012 Sending Exceptions to Generators - Coding",
-    "date": "2026-09-14T09:02:08.000Z",
-    "link": "https://t.me/sm1523/929"
-  },
-  {
-    "id": "926",
-    "title": "🎬 011 Sending Exceptions to Generators - Lecture",
-    "date": "2026-09-14T08:58:45.000Z",
-    "link": "https://t.me/sm1523/926"
-  },
-  {
-    "id": "923",
-    "title": "🎬 010 Closing Generators - Coding",
-    "date": "2026-09-14T08:57:26.000Z",
-    "link": "https://t.me/sm1523/923"
-  },
-  {
-    "id": "920",
-    "title": "🎬 009 Closing Generators - Lecture",
-    "date": "2026-09-14T08:53:59.000Z",
-    "link": "https://t.me/sm1523/920"
-  },
-  {
-    "id": "917",
-    "title": "🎬 008 Sending to Generators - Coding",
-    "date": "2026-09-14T08:52:54.000Z",
-    "link": "https://t.me/sm1523/917"
-  },
-  {
-    "id": "914",
-    "title": "🎬 007 Sending to Generators - Lecture",
-    "date": "2026-09-14T08:49:39.000Z",
-    "link": "https://t.me/sm1523/914"
-  },
-  {
-    "id": "911",
-    "title": "🎬 006 Generator States - Coding",
-    "date": "2026-09-14T08:47:09.000Z",
-    "link": "https://t.me/sm1523/911"
-  },
-  {
-    "id": "908",
-    "title": "🎬 005 Generator States - Lecture",
-    "date": "2026-09-14T08:45:45.000Z",
-    "link": "https://t.me/sm1523/908"
-  },
-  {
-    "id": "905",
-    "title": "🎬 004 Coroutines - Coding",
-    "date": "2026-09-14T08:45:10.000Z",
-    "link": "https://t.me/sm1523/905"
-  },
-  {
-    "id": "902",
-    "title": "🎬 003 Coroutines - Lecture",
-    "date": "2026-09-14T08:42:40.000Z",
-    "link": "https://t.me/sm1523/902"
-  },
-  {
-    "id": "899",
-    "title": "🎬 002 Introduction",
-    "date": "2026-09-14T08:36:40.000Z",
-    "link": "https://t.me/sm1523/899"
-  },
-  {
-    "id": "894",
-    "title": "🎬 003 Python 3.8 3.7",
-    "date": "2026-09-14T08:34:50.000Z",
-    "link": "https://t.me/sm1523/894"
-  },
-  {
-    "id": "891",
-    "title": "🎬 002 Python 3.9",
-    "date": "2026-09-14T08:33:56.000Z",
-    "link": "https://t.me/sm1523/891"
-  },
-  {
-    "id": "888",
-    "title": "🎬 001 Python 3.10",
-    "date": "2026-09-14T08:33:12.000Z",
-    "link": "https://t.me/sm1523/888"
-  },
-  {
-    "id": "884",
-    "title": "🎬 003 Project Solution Goal 2",
-    "date": "2026-09-14T08:32:34.000Z",
-    "link": "https://t.me/sm1523/884"
-  },
-  {
-    "id": "881",
-    "title": "🎬 002 Project Solution Goal 1",
-    "date": "2026-09-14T08:31:54.000Z",
-    "link": "https://t.me/sm1523/881"
-  },
-  {
-    "id": "878",
-    "title": "🎬 001 Project - Description",
-    "date": "2026-09-14T08:31:08.000Z",
-    "link": "https://t.me/sm1523/878"
-  },
-  {
-    "id": "874",
-    "title": "🎬 012 Nested Context Managers",
-    "date": "2026-09-14T08:29:33.000Z",
-    "link": "https://t.me/sm1523/874"
-  },
-  {
-    "id": "871",
-    "title": "🎬 011 The contextmanager Decorator - Coding",
-    "date": "2026-09-14T08:28:36.000Z",
-    "link": "https://t.me/sm1523/871"
-  },
-  {
-    "id": "868",
-    "title": "🎬 010 The contextmanager Decorator - Lecture",
-    "date": "2026-09-14T08:27:49.000Z",
-    "link": "https://t.me/sm1523/868"
-  },
-  {
-    "id": "865",
-    "title": "🎬 009 Generators and Context Managers - Coding",
-    "date": "2026-09-14T08:26:29.000Z",
-    "link": "https://t.me/sm1523/865"
-  },
-  {
-    "id": "862",
-    "title": "🎬 008 Generators and Context Managers - Lecture",
-    "date": "2026-09-14T08:25:54.000Z",
-    "link": "https://t.me/sm1523/862"
-  },
-  {
-    "id": "859",
-    "title": "🎬 007 Additional Uses - Coding",
-    "date": "2026-09-14T08:24:18.000Z",
-    "link": "https://t.me/sm1523/859"
-  },
-  {
-    "id": "856",
-    "title": "🎬 006 Additional Uses - Lecture",
-    "date": "2026-09-14T08:22:49.000Z",
-    "link": "https://t.me/sm1523/856"
-  },
-  {
-    "id": "853",
-    "title": "🎬 005 Not just a Context Manager",
-    "date": "2026-09-14T08:21:49.000Z",
-    "link": "https://t.me/sm1523/853"
-  },
-  {
-    "id": "850",
-    "title": "🎬 004 Caveat when used with Lazy Iterators",
-    "date": "2026-09-14T08:21:25.000Z",
-    "link": "https://t.me/sm1523/850"
-  },
-  {
-    "id": "847",
-    "title": "🎬 003 Context Managers - Coding",
-    "date": "2026-09-14T08:21:15.000Z",
-    "link": "https://t.me/sm1523/847"
-  },
-  {
-    "id": "844",
-    "title": "🎬 002 Context Managers - Lecture",
-    "date": "2026-09-14T08:19:46.000Z",
-    "link": "https://t.me/sm1523/844"
-  },
-  {
-    "id": "841",
-    "title": "🎬 001 Introduction",
-    "date": "2026-09-14T08:16:48.000Z",
-    "link": "https://t.me/sm1523/841"
-  },
-  {
-    "id": "837",
-    "title": "🎬 005 Project Solution Goal 4",
-    "date": "2026-09-14T08:15:05.000Z",
-    "link": "https://t.me/sm1523/837"
-  },
-  {
-    "id": "834",
-    "title": "🎬 004 Project Solution Goal 3",
-    "date": "2026-09-14T08:11:55.000Z",
-    "link": "https://t.me/sm1523/834"
-  },
-  {
-    "id": "831",
-    "title": "🎬 003 Project Solution Goal 2",
-    "date": "2026-09-14T08:11:14.000Z",
-    "link": "https://t.me/sm1523/831"
-  },
-  {
-    "id": "828",
-    "title": "🎬 002 Project Solution Goal 1",
-    "date": "2026-09-14T08:08:17.000Z",
-    "link": "https://t.me/sm1523/828"
-  },
-  {
-    "id": "825",
-    "title": "🎬 001 Project - Description",
-    "date": "2026-09-14T08:06:11.000Z",
-    "link": "https://t.me/sm1523/825"
-  },
-  {
-    "id": "821",
-    "title": "🎬 020 Combinatorics - Coding (Permutation, Combination)",
-    "date": "2026-09-14T08:03:40.000Z",
-    "link": "https://t.me/sm1523/821"
-  },
-  {
-    "id": "818",
-    "title": "🎬 019 Combinatorics - Coding (Product)",
-    "date": "2026-09-14T08:02:45.000Z",
-    "link": "https://t.me/sm1523/818"
-  },
-  {
-    "id": "815",
-    "title": "🎬 018 Combinatorics - Lecture",
-    "date": "2026-09-14T08:02:00.000Z",
-    "link": "https://t.me/sm1523/815"
-  },
-  {
-    "id": "812",
-    "title": "🎬 017 Grouping - Coding",
-    "date": "2026-09-14T08:00:51.000Z",
-    "link": "https://t.me/sm1523/812"
-  },
-  {
-    "id": "809",
-    "title": "🎬 016 Grouping - Lecture",
-    "date": "2026-09-14T07:59:32.000Z",
-    "link": "https://t.me/sm1523/809"
-  },
-  {
-    "id": "806",
-    "title": "🎬 015 Zipping - Coding",
-    "date": "2026-09-14T07:58:13.000Z",
-    "link": "https://t.me/sm1523/806"
-  },
-  {
-    "id": "803",
-    "title": "🎬 014 Zipping - Lecture",
-    "date": "2026-09-14T07:57:56.000Z",
-    "link": "https://t.me/sm1523/803"
-  },
-  {
-    "id": "800",
-    "title": "🎬 013 Mapping and Reducing - Coding",
-    "date": "2026-09-14T07:57:29.000Z",
-    "link": "https://t.me/sm1523/800"
-  },
-  {
-    "id": "797",
-    "title": "🎬 012 Mapping and Reducing - Lecture",
-    "date": "2026-09-14T07:56:57.000Z",
-    "link": "https://t.me/sm1523/797"
-  },
-  {
-    "id": "794",
-    "title": "🎬 011 Chaining and Teeing - Coding",
-    "date": "2026-09-14T07:55:00.000Z",
-    "link": "https://t.me/sm1523/794"
-  },
-  {
-    "id": "791",
-    "title": "🎬 010 Chaining and Teeing - Lecture",
-    "date": "2026-09-14T07:54:29.000Z",
-    "link": "https://t.me/sm1523/791"
-  },
-  {
-    "id": "788",
-    "title": "🎬 009 Infinite Iterators - Coding",
-    "date": "2026-09-14T07:53:14.000Z",
-    "link": "https://t.me/sm1523/788"
-  },
-  {
-    "id": "785",
-    "title": "🎬 008 Infinite Iterators - Lecture",
-    "date": "2026-09-14T07:52:42.000Z",
-    "link": "https://t.me/sm1523/785"
-  },
-  {
-    "id": "782",
-    "title": "🎬 007 Selecting and Filtering - Coding",
-    "date": "2026-09-14T07:51:57.000Z",
-    "link": "https://t.me/sm1523/782"
-  },
-  {
-    "id": "779",
-    "title": "🎬 006 Selecting and Filtering - Lecture",
-    "date": "2026-09-14T07:51:30.000Z",
-    "link": "https://t.me/sm1523/779"
-  },
-  {
-    "id": "776",
-    "title": "🎬 005 Slicing - Coding",
-    "date": "2026-09-14T07:49:54.000Z",
-    "link": "https://t.me/sm1523/776"
-  },
-  {
-    "id": "773",
-    "title": "🎬 004 Slicing - Lecture",
-    "date": "2026-09-14T07:49:26.000Z",
-    "link": "https://t.me/sm1523/773"
-  },
-  {
-    "id": "770",
-    "title": "🎬 003 Aggregators - Coding",
-    "date": "2026-09-14T07:48:58.000Z",
-    "link": "https://t.me/sm1523/770"
-  },
-  {
-    "id": "767",
-    "title": "🎬 002 Aggregators - Lecture",
-    "date": "2026-09-14T07:48:19.000Z",
-    "link": "https://t.me/sm1523/767"
-  },
-  {
-    "id": "764",
-    "title": "🎬 001 Introduction",
-    "date": "2026-09-14T07:46:44.000Z",
-    "link": "https://t.me/sm1523/764"
-  },
-  {
-    "id": "760",
-    "title": "🎬 003 Project Solution Goal 2",
-    "date": "2026-09-14T07:45:44.000Z",
-    "link": "https://t.me/sm1523/760"
-  },
-  {
-    "id": "757",
-    "title": "🎬 002 Project Solution Goal 1",
-    "date": "2026-09-14T07:44:57.000Z",
-    "link": "https://t.me/sm1523/757"
-  },
-  {
-    "id": "754",
-    "title": "🎬 001 Project Description",
-    "date": "2026-09-14T07:42:38.000Z",
-    "link": "https://t.me/sm1523/754"
-  },
-  {
-    "id": "750",
-    "title": "🎬 011 Yield From - Coding",
-    "date": "2026-09-14T07:41:38.000Z",
-    "link": "https://t.me/sm1523/750"
-  },
-  {
-    "id": "747",
-    "title": "🎬 010 Yield From - Lecture",
-    "date": "2026-09-14T07:41:15.000Z",
-    "link": "https://t.me/sm1523/747"
-  },
-  {
-    "id": "744",
-    "title": "🎬 009 Generator Expressions and Performance - Coding",
-    "date": "2026-09-14T07:40:47.000Z",
-    "link": "https://t.me/sm1523/744"
-  },
-  {
-    "id": "741",
-    "title": "🎬 008 Generator Expressions and Performance - Lecture",
-    "date": "2026-09-14T07:39:11.000Z",
-    "link": "https://t.me/sm1523/741"
-  },
-  {
-    "id": "738",
-    "title": "🎬 007 Example - Card Deck",
-    "date": "2026-09-14T07:37:52.000Z",
-    "link": "https://t.me/sm1523/738"
-  },
-  {
-    "id": "735",
-    "title": "🎬 006 Making an Iterable from a Generator - Coding",
-    "date": "2026-09-14T07:37:29.000Z",
-    "link": "https://t.me/sm1523/735"
-  },
-  {
-    "id": "732",
-    "title": "🎬 005 Making an Iterable from a Generator - Lecture",
-    "date": "2026-09-14T07:37:14.000Z",
-    "link": "https://t.me/sm1523/732"
-  },
-  {
-    "id": "729",
-    "title": "🎬 004 Example - Fibonacci Sequence",
-    "date": "2026-09-14T07:36:08.000Z",
-    "link": "https://t.me/sm1523/729"
-  },
-  {
-    "id": "726",
-    "title": "🎬 003 Yielding and Generator Functions - Coding",
-    "date": "2026-09-14T07:35:35.000Z",
-    "link": "https://t.me/sm1523/726"
-  },
-  {
-    "id": "723",
-    "title": "🎬 002 Yielding and Generator Functions - Lecture",
-    "date": "2026-09-14T07:35:01.000Z",
-    "link": "https://t.me/sm1523/723"
-  },
-  {
-    "id": "720",
-    "title": "🎬 001 Introduction",
-    "date": "2026-09-14T07:32:42.000Z",
-    "link": "https://t.me/sm1523/720"
-  },
-  {
-    "id": "716",
-    "title": "🎬 003 Project Solution Goal 2",
-    "date": "2026-09-14T07:32:15.000Z",
-    "link": "https://t.me/sm1523/716"
-  },
-  {
-    "id": "713",
-    "title": "🎬 002 Project Solution Goal 1",
-    "date": "2026-09-14T07:31:50.000Z",
-    "link": "https://t.me/sm1523/713"
-  },
-  {
-    "id": "710",
-    "title": "🎬 001 Project Description",
-    "date": "2026-09-14T07:31:36.000Z",
-    "link": "https://t.me/sm1523/710"
-  },
-  {
-    "id": "706",
-    "title": "🎬 022 Caveat Using Iterators as Function Arguments",
-    "date": "2026-09-14T07:31:14.000Z",
-    "link": "https://t.me/sm1523/706"
-  },
-  {
-    "id": "703",
-    "title": "🎬 021 Reversed Iteration - Coding",
-    "date": "2026-09-14T07:30:29.000Z",
-    "link": "https://t.me/sm1523/703"
-  },
-  {
-    "id": "700",
-    "title": "🎬 020 Reversed Iteration - Lecture",
-    "date": "2026-09-14T07:29:30.000Z",
-    "link": "https://t.me/sm1523/700"
-  },
-  {
-    "id": "697",
-    "title": "🎬 019 Example 3 - Delegating Iterators",
-    "date": "2026-09-14T07:28:00.000Z",
-    "link": "https://t.me/sm1523/697"
-  },
-  {
-    "id": "694",
-    "title": "🎬 018 Iterating Callables - Coding",
-    "date": "2026-09-14T07:27:44.000Z",
-    "link": "https://t.me/sm1523/694"
-  },
-  {
-    "id": "691",
-    "title": "🎬 017 Iterating Callables - Lecture",
-    "date": "2026-09-14T07:27:16.000Z",
-    "link": "https://t.me/sm1523/691"
-  },
-  {
-    "id": "688",
-    "title": "🎬 016 The iter() Function - Coding",
-    "date": "2026-09-14T07:26:29.000Z",
-    "link": "https://t.me/sm1523/688"
-  },
-  {
-    "id": "685",
-    "title": "🎬 015 The iter() Function - Lecture",
-    "date": "2026-09-14T07:26:05.000Z",
-    "link": "https://t.me/sm1523/685"
-  },
-  {
-    "id": "682",
-    "title": "🎬 014 Sorting Iterables",
-    "date": "2026-09-14T07:25:07.000Z",
-    "link": "https://t.me/sm1523/682"
-  },
-  {
-    "id": "679",
-    "title": "🎬 013 Python's Built-In Iterables and Iterators - Coding",
-    "date": "2026-09-14T07:24:53.000Z",
-    "link": "https://t.me/sm1523/679"
-  },
-  {
-    "id": "676",
-    "title": "🎬 012 Python's Built-In Iterables and Iterators - Lecture",
-    "date": "2026-09-14T07:23:59.000Z",
-    "link": "https://t.me/sm1523/676"
-  },
-  {
-    "id": "673",
-    "title": "🎬 011 Lazy Iterables - Coding",
-    "date": "2026-09-14T07:23:36.000Z",
-    "link": "https://t.me/sm1523/673"
-  },
-  {
-    "id": "670",
-    "title": "🎬 010 Lazy Iterables - Lecture",
-    "date": "2026-09-14T07:23:06.000Z",
-    "link": "https://t.me/sm1523/670"
-  },
-  {
-    "id": "667",
-    "title": "🎬 009 Example 2 - Cyclic Iterators",
-    "date": "2026-09-14T07:22:28.000Z",
-    "link": "https://t.me/sm1523/667"
-  },
-  {
-    "id": "664",
-    "title": "🎬 008 Example 1 - Consuming Iterators Manually",
-    "date": "2026-09-14T07:21:23.000Z",
-    "link": "https://t.me/sm1523/664"
-  },
-  {
-    "id": "661",
-    "title": "🎬 007 Iterators and Iterables - Coding",
-    "date": "2026-09-14T07:20:28.000Z",
-    "link": "https://t.me/sm1523/661"
-  },
-  {
-    "id": "658",
-    "title": "🎬 006 Iterators and Iterables - Lecture",
-    "date": "2026-09-14T07:19:18.000Z",
-    "link": "https://t.me/sm1523/658"
-  },
-  {
-    "id": "655",
-    "title": "🎬 005 Iterators - Coding",
-    "date": "2026-09-14T07:17:33.000Z",
-    "link": "https://t.me/sm1523/655"
-  },
-  {
-    "id": "652",
-    "title": "🎬 004 Iterators - Lecture",
-    "date": "2026-09-14T07:16:56.000Z",
-    "link": "https://t.me/sm1523/652"
-  },
-  {
-    "id": "649",
-    "title": "🎬 003 Iterating Collections - Coding",
-    "date": "2026-09-14T07:15:53.000Z",
-    "link": "https://t.me/sm1523/649"
-  },
-  {
-    "id": "646",
-    "title": "🎬 002 Iterating Collections - Lecture",
-    "date": "2026-09-14T07:15:14.000Z",
-    "link": "https://t.me/sm1523/646"
-  },
-  {
-    "id": "643",
-    "title": "🎬 001 Introduction",
-    "date": "2026-09-14T07:13:38.000Z",
-    "link": "https://t.me/sm1523/643"
-  },
-  {
-    "id": "639",
-    "title": "🎬 003 Project Solution Goal 2",
-    "date": "2026-09-14T07:12:59.000Z",
-    "link": "https://t.me/sm1523/639"
-  },
-  {
-    "id": "636",
-    "title": "🎬 002 Project Solution Goal 1",
-    "date": "2026-09-14T07:12:33.000Z",
-    "link": "https://t.me/sm1523/636"
-  },
-  {
-    "id": "632",
-    "title": "🎬 001 Project Description",
-    "date": "2026-09-14T07:10:41.000Z",
-    "link": "https://t.me/sm1523/632"
-  },
-  {
-    "id": "628",
-    "title": "🎬 025 List Comprehensions - Coding",
-    "date": "2026-09-14T07:09:07.000Z",
-    "link": "https://t.me/sm1523/628"
-  },
-  {
-    "id": "625",
-    "title": "🎬 024 List Comprehensions - Lecture",
-    "date": "2026-09-14T07:07:50.000Z",
-    "link": "https://t.me/sm1523/625"
-  },
-  {
-    "id": "622",
-    "title": "🎬 023 Sorting Sequences - Coding",
-    "date": "2026-09-14T07:05:20.000Z",
-    "link": "https://t.me/sm1523/622"
-  },
-  {
-    "id": "619",
-    "title": "🎬 022 Sorting Sequences - Lecture",
-    "date": "2026-09-14T07:04:28.000Z",
-    "link": "https://t.me/sm1523/619"
-  },
-  {
-    "id": "616",
-    "title": "🎬 021 Custom Sequences - Part 2C - Coding",
-    "date": "2026-09-14T07:02:08.000Z",
-    "link": "https://t.me/sm1523/616"
-  },
-  {
-    "id": "613",
-    "title": "🎬 020 Custom Sequences - Part 2B - Coding",
-    "date": "2026-09-14T07:00:48.000Z",
-    "link": "https://t.me/sm1523/613"
-  },
-  {
-    "id": "610",
-    "title": "🎬 019 Custom Sequences - Part 2A - Coding",
-    "date": "2026-09-14T06:59:05.000Z",
-    "link": "https://t.me/sm1523/610"
-  },
-  {
-    "id": "607",
-    "title": "🎬 018 Custom Sequences - Part 2 - Lecture",
-    "date": "2026-09-14T06:58:20.000Z",
-    "link": "https://t.me/sm1523/607"
-  },
-  {
-    "id": "604",
-    "title": "🎬 017 Assignments in Mutable Sequences - Coding",
-    "date": "2026-09-14T06:56:18.000Z",
-    "link": "https://t.me/sm1523/604"
-  },
-  {
-    "id": "601",
-    "title": "🎬 016 Assignments in Mutable Sequences - Lecture",
-    "date": "2026-09-14T06:55:49.000Z",
-    "link": "https://t.me/sm1523/601"
-  },
-  {
-    "id": "598",
-    "title": "🎬 015 In-Place Concatenation and Repetition - Coding",
-    "date": "2026-09-14T06:54:47.000Z",
-    "link": "https://t.me/sm1523/598"
-  },
-  {
-    "id": "595",
-    "title": "🎬 014 In-Place Concatenation and Repetition - Lecture",
-    "date": "2026-09-14T06:54:33.000Z",
-    "link": "https://t.me/sm1523/595"
-  },
-  {
-    "id": "592",
-    "title": "🎬 013 Custom Sequences - Part 1 - Coding",
-    "date": "2026-09-14T06:53:48.000Z",
-    "link": "https://t.me/sm1523/592"
-  },
-  {
-    "id": "589",
-    "title": "🎬 012 Custom Sequences - Part 1 - Lecture",
-    "date": "2026-09-14T06:52:43.000Z",
-    "link": "https://t.me/sm1523/589"
-  },
-  {
-    "id": "586",
-    "title": "🎬 011 Slicing - Coding",
-    "date": "2026-09-14T06:51:26.000Z",
-    "link": "https://t.me/sm1523/586"
-  },
-  {
-    "id": "583",
-    "title": "🎬 010 Slicing - Lecture",
-    "date": "2026-09-14T06:51:04.000Z",
-    "link": "https://t.me/sm1523/583"
-  },
-  {
-    "id": "580",
-    "title": "🎬 009 Copying Sequences - Coding",
-    "date": "2026-09-14T06:46:57.000Z",
-    "link": "https://t.me/sm1523/580"
-  },
-  {
-    "id": "577",
-    "title": "🎬 008 Copying Sequences - Lecture",
-    "date": "2026-09-14T06:46:09.000Z",
-    "link": "https://t.me/sm1523/577"
-  },
-  {
-    "id": "574",
-    "title": "🎬 007 Index Base and Slice Bounds - Rationale",
-    "date": "2026-09-14T06:42:37.000Z",
-    "link": "https://t.me/sm1523/574"
-  },
-  {
-    "id": "571",
-    "title": "🎬 006 Lists vs Tuples",
-    "date": "2026-09-14T06:40:46.000Z",
-    "link": "https://t.me/sm1523/571"
-  },
-  {
-    "id": "568",
-    "title": "🎬 005 Mutable Sequence Types - Coding",
-    "date": "2026-09-14T06:39:44.000Z",
-    "link": "https://t.me/sm1523/568"
-  },
-  {
-    "id": "565",
-    "title": "🎬 004 Mutable Sequence Types - Lecture",
-    "date": "2026-09-14T06:39:19.000Z",
-    "link": "https://t.me/sm1523/565"
-  },
-  {
-    "id": "562",
-    "title": "🎬 003 Sequence Types - Coding",
-    "date": "2026-09-14T06:38:16.000Z",
-    "link": "https://t.me/sm1523/562"
-  },
-  {
-    "id": "559",
-    "title": "🎬 002 Sequence Types - Lecture",
-    "date": "2026-09-14T06:37:02.000Z",
-    "link": "https://t.me/sm1523/559"
-  },
-  {
-    "id": "556",
-    "title": "🎬 001 Introduction",
-    "date": "2026-09-14T06:32:58.000Z",
-    "link": "https://t.me/sm1523/556"
-  },
-  {
-    "id": "550",
-    "title": "🎬 003 Python Tools Needed",
-    "date": "2026-09-14T06:32:10.000Z",
-    "link": "https://t.me/sm1523/550"
-  },
-  {
-    "id": "547",
-    "title": "🎬 002 Pre-Requisites",
-    "date": "2026-09-14T06:31:22.000Z",
-    "link": "https://t.me/sm1523/547"
-  },
-  {
-    "id": "544",
-    "title": "🎬 001 Course Overview",
-    "date": "2026-09-14T06:30:02.000Z",
-    "link": "https://t.me/sm1523/544"
-  },
-  {
-    "id": "539",
-    "title": "🎬 9. Sentinel Values for Parameter Defaults",
-    "date": "2026-09-13T17:12:44.000Z",
-    "link": "https://t.me/sm1523/539"
-  },
-  {
-    "id": "536",
-    "title": "🎬 8. Command Line Arguments",
-    "date": "2026-09-13T17:12:14.000Z",
-    "link": "https://t.me/sm1523/536"
-  },
-  {
-    "id": "533",
-    "title": "🎬 7. Don't Use args and kwargs Names Blindly",
-    "date": "2026-09-13T17:09:07.000Z",
-    "link": "https://t.me/sm1523/533"
-  },
-  {
-    "id": "530",
-    "title": "🎬 6. Timing code using timeit",
-    "date": "2026-09-13T17:08:46.000Z",
-    "link": "https://t.me/sm1523/530"
-  },
-  {
-    "id": "527",
-    "title": "🎬 5. Random Samples",
-    "date": "2026-09-13T17:06:56.000Z",
-    "link": "https://t.me/sm1523/527"
-  },
-  {
-    "id": "524",
-    "title": "🎬 4. Random Choices",
-    "date": "2026-09-13T17:06:11.000Z",
-    "link": "https://t.me/sm1523/524"
-  },
-  {
-    "id": "521",
-    "title": "🎬 3. Random Seeds",
-    "date": "2026-09-13T17:04:04.000Z",
-    "link": "https://t.me/sm1523/521"
-  },
-  {
-    "id": "518",
-    "title": "🎬 2. Additional Resources",
-    "date": "2026-09-13T17:02:00.000Z",
-    "link": "https://t.me/sm1523/518"
-  },
-  {
-    "id": "516",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-13T16:58:57.000Z",
-    "link": "https://t.me/sm1523/516"
-  },
-  {
-    "id": "512",
-    "title": "🎬 8. Python 3.6 - f-Strings",
-    "date": "2026-09-13T16:58:00.000Z",
-    "link": "https://t.me/sm1523/512"
-  },
-  {
-    "id": "509",
-    "title": "🎬 7. Python 3.6 - Preserved Order of kwargs and Named Tuple Application",
-    "date": "2026-09-13T16:57:34.000Z",
-    "link": "https://t.me/sm1523/509"
-  },
-  {
-    "id": "506",
-    "title": "🎬 6. Python 3.6 - Underscores in Numeric Literals",
-    "date": "2026-09-13T16:57:13.000Z",
-    "link": "https://t.me/sm1523/506"
-  },
-  {
-    "id": "503",
-    "title": "🎬 5. Python 3.6 - Dictionary Ordering",
-    "date": "2026-09-13T16:57:01.000Z",
-    "link": "https://t.me/sm1523/503"
-  },
-  {
-    "id": "500",
-    "title": "🎬 4. Python 3.6 Highlights",
-    "date": "2026-09-13T16:55:46.000Z",
-    "link": "https://t.me/sm1523/500"
-  },
-  {
-    "id": "497",
-    "title": "🎬 3. Python 3.8 3.7",
-    "date": "2026-09-13T16:54:44.000Z",
-    "link": "https://t.me/sm1523/497"
-  },
-  {
-    "id": "494",
-    "title": "🎬 2. Python 3.9",
-    "date": "2026-09-13T16:53:24.000Z",
-    "link": "https://t.me/sm1523/494"
-  },
-  {
-    "id": "491",
-    "title": "🎬 1. Python 3.10",
-    "date": "2026-09-13T16:52:07.000Z",
-    "link": "https://t.me/sm1523/491"
-  },
-  {
-    "id": "487",
-    "title": "🎬 16. Importing from Zip Archives",
-    "date": "2026-09-13T16:50:54.000Z",
-    "link": "https://t.me/sm1523/487"
-  },
-  {
-    "id": "484",
-    "title": "🎬 15. Namespace Packages",
-    "date": "2026-09-13T16:50:31.000Z",
-    "link": "https://t.me/sm1523/484"
-  },
-  {
-    "id": "481",
-    "title": "🎬 14. Structuring Packages - Part 2",
-    "date": "2026-09-13T16:47:34.000Z",
-    "link": "https://t.me/sm1523/481"
-  },
-  {
-    "id": "478",
-    "title": "🎬 13. Structuring Packages - Part 1",
-    "date": "2026-09-13T16:44:58.000Z",
-    "link": "https://t.me/sm1523/478"
-  },
-  {
-    "id": "475",
-    "title": "🎬 12. Why Packages",
-    "date": "2026-09-13T16:43:14.000Z",
-    "link": "https://t.me/sm1523/475"
-  },
-  {
-    "id": "472",
-    "title": "🎬 11. What are Packages - Coding",
-    "date": "2026-09-13T16:38:56.000Z",
-    "link": "https://t.me/sm1523/472"
-  },
-  {
-    "id": "469",
-    "title": "🎬 10. What are Packages - Lecture",
-    "date": "2026-09-13T16:37:45.000Z",
-    "link": "https://t.me/sm1523/469"
-  },
-  {
-    "id": "466",
-    "title": "🎬 9. Modules Recap",
-    "date": "2026-09-13T16:29:10.000Z",
-    "link": "https://t.me/sm1523/466"
-  },
-  {
-    "id": "463",
-    "title": "🎬 8. Using __main__",
-    "date": "2026-09-13T16:23:49.000Z",
-    "link": "https://t.me/sm1523/463"
-  },
-  {
-    "id": "460",
-    "title": "🎬 7. Reloading Modules",
-    "date": "2026-09-13T16:19:52.000Z",
-    "link": "https://t.me/sm1523/460"
-  },
-  {
-    "id": "457",
-    "title": "🎬 6. Import Variants and Misconceptions - Coding",
-    "date": "2026-09-13T16:14:20.000Z",
-    "link": "https://t.me/sm1523/457"
-  },
-  {
-    "id": "454",
-    "title": "🎬 5. Import Variants and Misconceptions - Lecture",
-    "date": "2026-09-13T16:10:51.000Z",
-    "link": "https://t.me/sm1523/454"
-  },
-  {
-    "id": "451",
-    "title": "🎬 4. Imports and importlib",
-    "date": "2026-09-13T16:01:08.000Z",
-    "link": "https://t.me/sm1523/451"
-  },
-  {
-    "id": "448",
-    "title": "🎬 3. How does Python Import Modules",
-    "date": "2026-09-13T15:56:42.000Z",
-    "link": "https://t.me/sm1523/448"
-  },
-  {
-    "id": "445",
-    "title": "🎬 2. What is a Module",
-    "date": "2026-09-13T15:28:52.000Z",
-    "link": "https://t.me/sm1523/445"
-  },
-  {
-    "id": "443",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-13T15:18:07.000Z",
-    "link": "https://t.me/sm1523/443"
-  },
-  {
-    "id": "439",
-    "title": "🎬 11. Named Tuples - Application - Alternative to Dictionaries",
-    "date": "2026-09-13T15:13:48.000Z",
-    "link": "https://t.me/sm1523/439"
-  },
-  {
-    "id": "436",
-    "title": "🎬 10. Named Tuples - Application - Returning Multiple Values",
-    "date": "2026-09-13T14:11:49.000Z",
-    "link": "https://t.me/sm1523/436"
-  },
-  {
-    "id": "433",
-    "title": "🎬 9. Named Tuples - DocStrings and Default Values - Coding",
-    "date": "2026-09-13T14:09:19.000Z",
-    "link": "https://t.me/sm1523/433"
-  },
-  {
-    "id": "430",
-    "title": "🎬 8. Named Tuples - DocStrings and Default Values - Lecture",
-    "date": "2026-09-13T14:03:11.000Z",
-    "link": "https://t.me/sm1523/430"
-  },
-  {
-    "id": "427",
-    "title": "🎬 7. Named Tuples - Modifying and Extending - Coding",
-    "date": "2026-09-13T13:43:10.000Z",
-    "link": "https://t.me/sm1523/427"
-  },
-  {
-    "id": "424",
-    "title": "🎬 6. Named Tuples - Modifying and Extending - Lecture",
-    "date": "2026-09-13T13:25:26.000Z",
-    "link": "https://t.me/sm1523/424"
-  },
-  {
-    "id": "421",
-    "title": "🎬 5. Named Tuples - Coding",
-    "date": "2026-09-13T13:06:08.000Z",
-    "link": "https://t.me/sm1523/421"
-  },
-  {
-    "id": "418",
-    "title": "🎬 4. Named Tuples - Lecture",
-    "date": "2026-09-13T12:57:33.000Z",
-    "link": "https://t.me/sm1523/418"
-  },
-  {
-    "id": "415",
-    "title": "🎬 3. Tuples as Data Structures - Coding",
-    "date": "2026-09-13T12:47:54.000Z",
-    "link": "https://t.me/sm1523/415"
-  },
-  {
-    "id": "412",
-    "title": "🎬 2. Tuples as Data Structures - Lecture",
-    "date": "2026-09-13T12:45:33.000Z",
-    "link": "https://t.me/sm1523/412"
-  },
-  {
-    "id": "410",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-13T12:35:55.000Z",
-    "link": "https://t.me/sm1523/410"
-  },
-  {
-    "id": "407",
-    "title": "🎬 21. Decorator Application (Dispatching) - Part 3",
-    "date": "2026-09-13T12:34:53.000Z",
-    "link": "https://t.me/sm1523/407"
-  },
-  {
-    "id": "405",
-    "title": "🎬 20. Decorator Application (Dispatching) - Part 2",
-    "date": "2026-09-13T12:29:16.000Z",
-    "link": "https://t.me/sm1523/405"
-  },
-  {
-    "id": "402",
-    "title": "🎬 19. Decorator Application (Dispatching) - Part 1",
-    "date": "2026-09-13T12:19:02.000Z",
-    "link": "https://t.me/sm1523/402"
-  },
-  {
-    "id": "399",
-    "title": "🎬 18. Decorator Application (Decorating Classes)",
-    "date": "2026-09-13T12:10:09.000Z",
-    "link": "https://t.me/sm1523/399"
-  },
-  {
-    "id": "396",
-    "title": "🎬 17. Decorator Application (Decorator Class)",
-    "date": "2026-09-13T12:06:00.000Z",
-    "link": "https://t.me/sm1523/396"
-  },
-  {
-    "id": "393",
-    "title": "🎬 16. Decorator Factories - Coding",
-    "date": "2026-09-13T12:05:13.000Z",
-    "link": "https://t.me/sm1523/393"
-  },
-  {
-    "id": "390",
-    "title": "🎬 15. Decorator Factories - Lecture",
-    "date": "2026-09-13T12:03:11.000Z",
-    "link": "https://t.me/sm1523/390"
-  },
-  {
-    "id": "387",
-    "title": "🎬 14. Decorator Application (Memoization)",
-    "date": "2026-09-13T12:00:50.000Z",
-    "link": "https://t.me/sm1523/387"
-  },
-  {
-    "id": "384",
-    "title": "🎬 13. Decorator Application (Logger, Stacked Decorators)",
-    "date": "2026-09-13T11:56:40.000Z",
-    "link": "https://t.me/sm1523/384"
-  },
-  {
-    "id": "381",
-    "title": "🎬 12. Decorator Application (Timer)",
-    "date": "2026-09-13T11:54:44.000Z",
-    "link": "https://t.me/sm1523/381"
-  },
-  {
-    "id": "378",
-    "title": "🎬 11. Decorators (Part 1) - Coding",
-    "date": "2026-09-13T11:47:15.000Z",
-    "link": "https://t.me/sm1523/378"
-  },
-  {
-    "id": "375",
-    "title": "🎬 10. Decorators (Part 1) - Lecture",
-    "date": "2026-09-13T11:43:40.000Z",
-    "link": "https://t.me/sm1523/375"
-  },
-  {
-    "id": "372",
-    "title": "🎬 9. Closure Applications - Part 2",
-    "date": "2026-09-13T11:38:51.000Z",
-    "link": "https://t.me/sm1523/372"
-  },
-  {
-    "id": "369",
-    "title": "🎬 8. Closure Applications - Part 1",
-    "date": "2026-09-13T11:37:49.000Z",
-    "link": "https://t.me/sm1523/369"
-  },
-  {
-    "id": "366",
-    "title": "🎬 7. Closures - Coding",
-    "date": "2026-09-13T11:36:37.000Z",
-    "link": "https://t.me/sm1523/366"
-  },
-  {
-    "id": "363",
-    "title": "🎬 6. Closures - Lecture",
-    "date": "2026-09-13T11:31:36.000Z",
-    "link": "https://t.me/sm1523/363"
-  },
-  {
-    "id": "360",
-    "title": "🎬 5. Nonlocal Scopes - Coding",
-    "date": "2026-09-13T11:23:12.000Z",
-    "link": "https://t.me/sm1523/360"
-  },
-  {
-    "id": "357",
-    "title": "🎬 4. Nonlocal Scopes - Lecture",
-    "date": "2026-09-13T11:22:34.000Z",
-    "link": "https://t.me/sm1523/357"
-  },
-  {
-    "id": "354",
-    "title": "🎬 3. Global and Local Scopes - Coding",
-    "date": "2026-09-13T11:16:10.000Z",
-    "link": "https://t.me/sm1523/354"
-  },
-  {
-    "id": "351",
-    "title": "🎬 2. Global and Local Scopes - Lecture",
-    "date": "2026-09-13T11:15:06.000Z",
-    "link": "https://t.me/sm1523/351"
-  },
-  {
-    "id": "349",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-13T11:02:05.000Z",
-    "link": "https://t.me/sm1523/349"
-  },
-  {
-    "id": "345",
-    "title": "🎬 18. The operator Module - Coding",
-    "date": "2026-09-13T11:01:41.000Z",
-    "link": "https://t.me/sm1523/345"
-  },
-  {
-    "id": "342",
-    "title": "🎬 17. The operator Module - Lecture",
-    "date": "2026-09-13T10:58:52.000Z",
-    "link": "https://t.me/sm1523/342"
-  },
-  {
-    "id": "339",
-    "title": "🎬 16. Partial Functions - Coding",
-    "date": "2026-09-13T10:55:28.000Z",
-    "link": "https://t.me/sm1523/339"
-  },
-  {
-    "id": "336",
-    "title": "🎬 15. Partial Functions - Lecture",
-    "date": "2026-09-13T10:53:10.000Z",
-    "link": "https://t.me/sm1523/336"
-  },
-  {
-    "id": "333",
-    "title": "🎬 14. Reducing Functions - Coding",
-    "date": "2026-09-13T10:50:48.000Z",
-    "link": "https://t.me/sm1523/333"
-  },
-  {
-    "id": "330",
-    "title": "🎬 13. Reducing Functions - Lecture",
-    "date": "2026-09-13T10:49:24.000Z",
-    "link": "https://t.me/sm1523/330"
-  },
-  {
-    "id": "327",
-    "title": "🎬 12. Map, Filter, Zip and List Comprehensions - Coding",
-    "date": "2026-09-13T10:43:44.000Z",
-    "link": "https://t.me/sm1523/327"
-  },
-  {
-    "id": "324",
-    "title": "🎬 11. Map, Filter, Zip and List Comprehensions - Lecture",
-    "date": "2026-09-13T10:40:19.000Z",
-    "link": "https://t.me/sm1523/324"
-  },
-  {
-    "id": "320",
-    "title": "🎬 10. Callables",
-    "date": "2026-09-13T10:35:52.000Z",
-    "link": "https://t.me/sm1523/320"
-  },
-  {
-    "id": "317",
-    "title": "🎬 9. Function Introspection - Coding",
-    "date": "2026-09-13T10:30:58.000Z",
-    "link": "https://t.me/sm1523/317"
-  },
-  {
-    "id": "314",
-    "title": "🎬 8. Function Introspection - Lecture",
-    "date": "2026-09-13T10:23:17.000Z",
-    "link": "https://t.me/sm1523/314"
-  },
-  {
-    "id": "311",
-    "title": "🎬 7. Challenge - Randomize an Iterable using Sorted!!",
-    "date": "2026-09-13T10:09:41.000Z",
-    "link": "https://t.me/sm1523/311"
-  },
-  {
-    "id": "308",
-    "title": "🎬 6. Lambdas and Sorting",
-    "date": "2026-09-13T10:09:29.000Z",
-    "link": "https://t.me/sm1523/308"
-  },
-  {
-    "id": "305",
-    "title": "🎬 5. Lambda Expressions - Coding",
-    "date": "2026-09-13T10:08:38.000Z",
-    "link": "https://t.me/sm1523/305"
-  },
-  {
-    "id": "302",
-    "title": "🎬 4. Lambda Expressions - Lecture",
-    "date": "2026-09-13T10:07:44.000Z",
-    "link": "https://t.me/sm1523/302"
-  },
-  {
-    "id": "299",
-    "title": "🎬 3. Docstrings and Annotations - Coding",
-    "date": "2026-09-13T10:04:02.000Z",
-    "link": "https://t.me/sm1523/299"
-  },
-  {
-    "id": "296",
-    "title": "🎬 2. Docstrings and Annotations - Lecture",
-    "date": "2026-09-13T10:00:45.000Z",
-    "link": "https://t.me/sm1523/296"
-  },
-  {
-    "id": "294",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-13T09:55:06.000Z",
-    "link": "https://t.me/sm1523/294"
-  },
-  {
-    "id": "290",
-    "title": "🎬 18. Parameter Defaults - Beware Again!!",
-    "date": "2026-09-13T09:53:45.000Z",
-    "link": "https://t.me/sm1523/290"
-  },
-  {
-    "id": "286",
-    "title": "🎬 17. Parameter Defaults - Beware!!",
-    "date": "2026-09-13T09:50:26.000Z",
-    "link": "https://t.me/sm1523/286"
-  },
-  {
-    "id": "283",
-    "title": "🎬 16. Application A Simple Function Timer",
-    "date": "2026-09-13T09:45:44.000Z",
-    "link": "https://t.me/sm1523/283"
-  },
-  {
-    "id": "280",
-    "title": "🎬 15. Putting it all Together - Coding",
-    "date": "2026-09-13T09:44:01.000Z",
-    "link": "https://t.me/sm1523/280"
-  },
-  {
-    "id": "277",
-    "title": "🎬 14. Putting it all Together - Lecture",
-    "date": "2026-09-13T09:42:39.000Z",
-    "link": "https://t.me/sm1523/277"
-  },
-  {
-    "id": "273",
-    "title": "🎬 13. kwargs",
-    "date": "2026-09-13T09:39:07.000Z",
-    "link": "https://t.me/sm1523/273"
-  },
-  {
-    "id": "270",
-    "title": "🎬 12. Keyword Arguments - Coding",
-    "date": "2026-09-13T09:37:10.000Z",
-    "link": "https://t.me/sm1523/270"
-  },
-  {
-    "id": "267",
-    "title": "🎬 11. Keyword Arguments - Lecture",
-    "date": "2026-09-13T09:36:00.000Z",
-    "link": "https://t.me/sm1523/267"
-  },
-  {
-    "id": "264",
-    "title": "🎬 10. args - Coding",
-    "date": "2026-09-13T09:34:03.000Z",
-    "link": "https://t.me/sm1523/264"
-  },
-  {
-    "id": "261",
-    "title": "🎬 9. args - Lecture",
-    "date": "2026-09-13T09:33:26.000Z",
-    "link": "https://t.me/sm1523/261"
-  },
-  {
-    "id": "258",
-    "title": "🎬 8. Extended Unpacking - Coding",
-    "date": "2026-09-13T09:32:11.000Z",
-    "link": "https://t.me/sm1523/258"
-  },
-  {
-    "id": "255",
-    "title": "🎬 7. Extended Unpacking - Lecture",
-    "date": "2026-09-13T09:30:46.000Z",
-    "link": "https://t.me/sm1523/255"
-  },
-  {
-    "id": "252",
-    "title": "🎬 6. Unpacking Iterables - Coding",
-    "date": "2026-09-13T09:27:04.000Z",
-    "link": "https://t.me/sm1523/252"
-  },
-  {
-    "id": "249",
-    "title": "🎬 5. Unpacking Iterables - Lecture",
-    "date": "2026-09-13T09:25:33.000Z",
-    "link": "https://t.me/sm1523/249"
-  },
-  {
-    "id": "246",
-    "title": "🎬 4. Positional and Keyword Arguments - Coding",
-    "date": "2026-09-13T09:20:37.000Z",
-    "link": "https://t.me/sm1523/246"
-  },
-  {
-    "id": "243",
-    "title": "🎬 3. Positional and Keyword Arguments - Lecture",
-    "date": "2026-09-13T09:20:10.000Z",
-    "link": "https://t.me/sm1523/243"
-  },
-  {
-    "id": "240",
-    "title": "🎬 2. Argument vs Parameter",
-    "date": "2026-09-13T09:12:33.000Z",
-    "link": "https://t.me/sm1523/240"
-  },
-  {
-    "id": "238",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-13T09:11:02.000Z",
-    "link": "https://t.me/sm1523/238"
-  },
-  {
-    "id": "233",
-    "title": "🎬 32. Comparison Operators",
-    "date": "2026-09-13T09:10:29.000Z",
-    "link": "https://t.me/sm1523/233"
-  },
-  {
-    "id": "230",
-    "title": "🎬 31. Booleans Boolean Operators - Coding",
-    "date": "2026-09-13T09:04:27.000Z",
-    "link": "https://t.me/sm1523/230"
-  },
-  {
-    "id": "227",
-    "title": "🎬 30. Booleans Boolean Operators - Lecture",
-    "date": "2026-09-13T09:02:47.000Z",
-    "link": "https://t.me/sm1523/227"
-  },
-  {
-    "id": "224",
-    "title": "🎬 29. Booleans Precedence and Short-Circuiting - Coding",
-    "date": "2026-09-13T08:56:52.000Z",
-    "link": "https://t.me/sm1523/224"
-  },
-  {
-    "id": "221",
-    "title": "🎬 28. Booleans Precedence and Short-Circuiting - Lecture",
-    "date": "2026-09-13T08:55:25.000Z",
-    "link": "https://t.me/sm1523/221"
-  },
-  {
-    "id": "218",
-    "title": "🎬 27. Booleans Truth Values - Coding",
-    "date": "2026-09-13T08:48:52.000Z",
-    "link": "https://t.me/sm1523/218"
-  },
-  {
-    "id": "215",
-    "title": "🎬 26. Booleans Truth Values - Lecture",
-    "date": "2026-09-13T08:47:28.000Z",
-    "link": "https://t.me/sm1523/215"
-  },
-  {
-    "id": "211",
-    "title": "🎬 25. Booleans",
-    "date": "2026-09-13T08:44:55.000Z",
-    "link": "https://t.me/sm1523/211"
-  },
-  {
-    "id": "208",
-    "title": "🎬 24. Complex Numbers - Coding",
-    "date": "2026-09-13T08:32:37.000Z",
-    "link": "https://t.me/sm1523/208"
-  },
-  {
-    "id": "205",
-    "title": "🎬 23. Complex Numbers - Lecture",
-    "date": "2026-09-13T08:31:01.000Z",
-    "link": "https://t.me/sm1523/205"
-  },
-  {
-    "id": "201",
-    "title": "🎬 22. Decimals Performance Considerations",
-    "date": "2026-09-13T08:26:08.000Z",
-    "link": "https://t.me/sm1523/201"
-  },
-  {
-    "id": "198",
-    "title": "🎬 21. Decimals Math Operations - Coding",
-    "date": "2026-09-13T08:22:48.000Z",
-    "link": "https://t.me/sm1523/198"
-  },
-  {
-    "id": "195",
-    "title": "🎬 20. Decimals Math Operations - Lecture",
-    "date": "2026-09-13T08:21:22.000Z",
-    "link": "https://t.me/sm1523/195"
-  },
-  {
-    "id": "192",
-    "title": "🎬 19. Decimals Constructors and Contexts - Coding",
-    "date": "2026-09-13T08:18:52.000Z",
-    "link": "https://t.me/sm1523/192"
-  },
-  {
-    "id": "189",
-    "title": "🎬 18. Decimals Constructors and Contexts - Lecture",
-    "date": "2026-09-13T08:17:59.000Z",
-    "link": "https://t.me/sm1523/189"
-  },
-  {
-    "id": "186",
-    "title": "🎬 17. Decimals - Coding",
-    "date": "2026-09-13T08:15:45.000Z",
-    "link": "https://t.me/sm1523/186"
-  },
-  {
-    "id": "183",
-    "title": "🎬 16. Decimals - Lecture",
-    "date": "2026-09-13T08:14:49.000Z",
-    "link": "https://t.me/sm1523/183"
-  },
-  {
-    "id": "180",
-    "title": "🎬 15. Floats Rounding - Coding",
-    "date": "2026-09-13T08:11:10.000Z",
-    "link": "https://t.me/sm1523/180"
-  },
-  {
-    "id": "177",
-    "title": "🎬 14. Floats Rounding - Lecture",
-    "date": "2026-09-13T08:09:55.000Z",
-    "link": "https://t.me/sm1523/177"
-  },
-  {
-    "id": "174",
-    "title": "🎬 13. Floats Coercing to Integers - Coding",
-    "date": "2026-09-13T08:01:53.000Z",
-    "link": "https://t.me/sm1523/174"
-  },
-  {
-    "id": "171",
-    "title": "🎬 12. Floats Coercing to Integers - Lecture",
-    "date": "2026-09-13T07:59:14.000Z",
-    "link": "https://t.me/sm1523/171"
-  },
-  {
-    "id": "168",
-    "title": "🎬 11. Floats Equality Testing - Coding",
-    "date": "2026-09-13T07:56:50.000Z",
-    "link": "https://t.me/sm1523/168"
-  },
-  {
-    "id": "165",
-    "title": "🎬 10. Floats Equality Testing - Lecture",
-    "date": "2026-09-13T07:55:37.000Z",
-    "link": "https://t.me/sm1523/165"
-  },
-  {
-    "id": "162",
-    "title": "🎬 9. Floats Internal Representations - Coding",
-    "date": "2026-09-13T07:51:09.000Z",
-    "link": "https://t.me/sm1523/162"
-  },
-  {
-    "id": "159",
-    "title": "🎬 8. Floats Internal Representations - Lecture",
-    "date": "2026-09-13T07:50:49.000Z",
-    "link": "https://t.me/sm1523/159"
-  },
-  {
-    "id": "156",
-    "title": "🎬 7. Rational Numbers - Coding",
-    "date": "2026-09-13T07:42:32.000Z",
-    "link": "https://t.me/sm1523/156"
-  },
-  {
-    "id": "153",
-    "title": "🎬 6. Rational Numbers - Lecture",
-    "date": "2026-09-13T07:41:47.000Z",
-    "link": "https://t.me/sm1523/153"
-  },
-  {
-    "id": "150",
-    "title": "🎬 5. Integers Constructors and Bases - Coding",
-    "date": "2026-09-13T07:38:40.000Z",
-    "link": "https://t.me/sm1523/150"
-  },
-  {
-    "id": "147",
-    "title": "🎬 4. Integers Constructors and Bases - Lecture",
-    "date": "2026-09-13T07:37:16.000Z",
-    "link": "https://t.me/sm1523/147"
-  },
-  {
-    "id": "143",
-    "title": "🎬 3. Integers Operations",
-    "date": "2026-09-13T07:25:32.000Z",
-    "link": "https://t.me/sm1523/143"
-  },
-  {
-    "id": "139",
-    "title": "🎬 2. Integers Data Types",
-    "date": "2026-09-13T07:18:26.000Z",
-    "link": "https://t.me/sm1523/139"
-  },
-  {
-    "id": "137",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-13T07:11:41.000Z",
-    "link": "https://t.me/sm1523/137"
-  },
-  {
-    "id": "132",
-    "title": "🎬 14. Python Optimizations Peephole",
-    "date": "2026-09-13T07:10:41.000Z",
-    "link": "https://t.me/sm1523/132"
-  },
-  {
-    "id": "128",
-    "title": "🎬 13. Python Optimizations String Interning",
-    "date": "2026-09-13T07:03:45.000Z",
-    "link": "https://t.me/sm1523/128"
-  },
-  {
-    "id": "124",
-    "title": "🎬 12. Python Optimizations Interning",
-    "date": "2026-09-13T06:59:58.000Z",
-    "link": "https://t.me/sm1523/124"
-  },
-  {
-    "id": "120",
-    "title": "🎬 11. Everything is an Object",
-    "date": "2026-09-13T06:57:15.000Z",
-    "link": "https://t.me/sm1523/120"
-  },
-  {
-    "id": "116",
-    "title": "🎬 10. Variable Equality",
-    "date": "2026-09-13T06:53:01.000Z",
-    "link": "https://t.me/sm1523/116"
-  },
-  {
-    "id": "112",
-    "title": "🎬 9. Shared References and Mutability",
-    "date": "2026-09-13T06:47:29.000Z",
-    "link": "https://t.me/sm1523/112"
-  },
-  {
-    "id": "108",
-    "title": "🎬 8. Function Arguments and Mutability",
-    "date": "2026-09-13T06:42:21.000Z",
-    "link": "https://t.me/sm1523/108"
-  },
-  {
-    "id": "104",
-    "title": "🎬 7. Object Mutability",
-    "date": "2026-09-13T06:36:52.000Z",
-    "link": "https://t.me/sm1523/104"
-  },
-  {
-    "id": "100",
-    "title": "🎬 6. Variable Re-Assignment",
-    "date": "2026-09-13T06:31:27.000Z",
-    "link": "https://t.me/sm1523/100"
-  },
-  {
-    "id": "96",
-    "title": "🎬 5. Dynamic vs Static Typing",
-    "date": "2026-09-13T06:30:04.000Z",
-    "link": "https://t.me/sm1523/96"
-  },
-  {
-    "id": "92",
-    "title": "🎬 4. Garbage Collection",
-    "date": "2026-09-13T06:27:22.000Z",
-    "link": "https://t.me/sm1523/92"
-  },
-  {
-    "id": "87",
-    "title": "🎬 3. Reference Counting",
-    "date": "2026-09-13T06:18:44.000Z",
-    "link": "https://t.me/sm1523/87"
-  },
-  {
-    "id": "83",
-    "title": "🎬 2. Variables are Memory References",
-    "date": "2026-09-13T06:12:26.000Z",
-    "link": "https://t.me/sm1523/83"
-  },
-  {
-    "id": "81",
-    "title": "🎬 1. Introduction",
-    "date": "2026-09-13T06:08:20.000Z",
-    "link": "https://t.me/sm1523/81"
-  },
-  {
-    "id": "77",
-    "title": "🎬 10. Classes",
-    "date": "2026-09-13T06:07:07.000Z",
-    "link": "https://t.me/sm1523/77"
-  },
-  {
-    "id": "74",
-    "title": "🎬 9. The For Loop",
-    "date": "2026-09-13T05:49:45.000Z",
-    "link": "https://t.me/sm1523/74"
-  },
-  {
-    "id": "71",
-    "title": "🎬 8. Break, Continue and the Try Statement",
-    "date": "2026-09-13T05:48:52.000Z",
-    "link": "https://t.me/sm1523/71"
-  },
-  {
-    "id": "68",
-    "title": "🎬 7. The While Loop",
-    "date": "2026-09-13T05:48:06.000Z",
-    "link": "https://t.me/sm1523/68"
-  },
-  {
-    "id": "65",
-    "title": "🎬 6. Functions",
-    "date": "2026-09-13T05:46:52.000Z",
-    "link": "https://t.me/sm1523/65"
-  },
-  {
-    "id": "62",
-    "title": "🎬 5. Conditionals",
-    "date": "2026-09-13T05:45:27.000Z",
-    "link": "https://t.me/sm1523/62"
-  },
-  {
-    "id": "59",
-    "title": "🎬 4. Variable Names",
-    "date": "2026-09-13T05:44:42.000Z",
-    "link": "https://t.me/sm1523/59"
-  },
-  {
-    "id": "55",
-    "title": "🎬 3. Multi-Line Statements and Strings",
-    "date": "2026-09-13T05:39:50.000Z",
-    "link": "https://t.me/sm1523/55"
-  },
-  {
-    "id": "52",
-    "title": "🎬 2. The Python Type Hierarchy",
-    "date": "2026-09-13T05:27:11.000Z",
-    "link": "https://t.me/sm1523/52"
+    "date": "2026-09-13T05:23:55.000Z",
+    "link": "https://t.me/sm1523/41"
   },
   {
     "id": "49",
@@ -2280,9 +12,2277 @@
     "link": "https://t.me/sm1523/49"
   },
   {
-    "id": "41",
+    "id": "52",
+    "title": "🎬 2. The Python Type Hierarchy",
+    "date": "2026-09-13T05:27:11.000Z",
+    "link": "https://t.me/sm1523/52"
+  },
+  {
+    "id": "55",
+    "title": "🎬 3. Multi-Line Statements and Strings",
+    "date": "2026-09-13T05:39:50.000Z",
+    "link": "https://t.me/sm1523/55"
+  },
+  {
+    "id": "59",
+    "title": "🎬 4. Variable Names",
+    "date": "2026-09-13T05:44:42.000Z",
+    "link": "https://t.me/sm1523/59"
+  },
+  {
+    "id": "62",
+    "title": "🎬 5. Conditionals",
+    "date": "2026-09-13T05:45:27.000Z",
+    "link": "https://t.me/sm1523/62"
+  },
+  {
+    "id": "65",
+    "title": "🎬 6. Functions",
+    "date": "2026-09-13T05:46:52.000Z",
+    "link": "https://t.me/sm1523/65"
+  },
+  {
+    "id": "68",
+    "title": "🎬 7. The While Loop",
+    "date": "2026-09-13T05:48:06.000Z",
+    "link": "https://t.me/sm1523/68"
+  },
+  {
+    "id": "71",
+    "title": "🎬 8. Break, Continue and the Try Statement",
+    "date": "2026-09-13T05:48:52.000Z",
+    "link": "https://t.me/sm1523/71"
+  },
+  {
+    "id": "74",
+    "title": "🎬 9. The For Loop",
+    "date": "2026-09-13T05:49:45.000Z",
+    "link": "https://t.me/sm1523/74"
+  },
+  {
+    "id": "77",
+    "title": "🎬 10. Classes",
+    "date": "2026-09-13T06:07:07.000Z",
+    "link": "https://t.me/sm1523/77"
+  },
+  {
+    "id": "81",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-13T06:08:20.000Z",
+    "link": "https://t.me/sm1523/81"
+  },
+  {
+    "id": "83",
+    "title": "🎬 2. Variables are Memory References",
+    "date": "2026-09-13T06:12:26.000Z",
+    "link": "https://t.me/sm1523/83"
+  },
+  {
+    "id": "87",
+    "title": "🎬 3. Reference Counting",
+    "date": "2026-09-13T06:18:44.000Z",
+    "link": "https://t.me/sm1523/87"
+  },
+  {
+    "id": "92",
+    "title": "🎬 4. Garbage Collection",
+    "date": "2026-09-13T06:27:22.000Z",
+    "link": "https://t.me/sm1523/92"
+  },
+  {
+    "id": "96",
+    "title": "🎬 5. Dynamic vs Static Typing",
+    "date": "2026-09-13T06:30:04.000Z",
+    "link": "https://t.me/sm1523/96"
+  },
+  {
+    "id": "100",
+    "title": "🎬 6. Variable Re-Assignment",
+    "date": "2026-09-13T06:31:27.000Z",
+    "link": "https://t.me/sm1523/100"
+  },
+  {
+    "id": "104",
+    "title": "🎬 7. Object Mutability",
+    "date": "2026-09-13T06:36:52.000Z",
+    "link": "https://t.me/sm1523/104"
+  },
+  {
+    "id": "108",
+    "title": "🎬 8. Function Arguments and Mutability",
+    "date": "2026-09-13T06:42:21.000Z",
+    "link": "https://t.me/sm1523/108"
+  },
+  {
+    "id": "112",
+    "title": "🎬 9. Shared References and Mutability",
+    "date": "2026-09-13T06:47:29.000Z",
+    "link": "https://t.me/sm1523/112"
+  },
+  {
+    "id": "116",
+    "title": "🎬 10. Variable Equality",
+    "date": "2026-09-13T06:53:01.000Z",
+    "link": "https://t.me/sm1523/116"
+  },
+  {
+    "id": "120",
+    "title": "🎬 11. Everything is an Object",
+    "date": "2026-09-13T06:57:15.000Z",
+    "link": "https://t.me/sm1523/120"
+  },
+  {
+    "id": "124",
+    "title": "🎬 12. Python Optimizations Interning",
+    "date": "2026-09-13T06:59:58.000Z",
+    "link": "https://t.me/sm1523/124"
+  },
+  {
+    "id": "128",
+    "title": "🎬 13. Python Optimizations String Interning",
+    "date": "2026-09-13T07:03:45.000Z",
+    "link": "https://t.me/sm1523/128"
+  },
+  {
+    "id": "132",
+    "title": "🎬 14. Python Optimizations Peephole",
+    "date": "2026-09-13T07:10:41.000Z",
+    "link": "https://t.me/sm1523/132"
+  },
+  {
+    "id": "137",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-13T07:11:41.000Z",
+    "link": "https://t.me/sm1523/137"
+  },
+  {
+    "id": "139",
+    "title": "🎬 2. Integers Data Types",
+    "date": "2026-09-13T07:18:26.000Z",
+    "link": "https://t.me/sm1523/139"
+  },
+  {
+    "id": "143",
+    "title": "🎬 3. Integers Operations",
+    "date": "2026-09-13T07:25:32.000Z",
+    "link": "https://t.me/sm1523/143"
+  },
+  {
+    "id": "147",
+    "title": "🎬 4. Integers Constructors and Bases - Lecture",
+    "date": "2026-09-13T07:37:16.000Z",
+    "link": "https://t.me/sm1523/147"
+  },
+  {
+    "id": "150",
+    "title": "🎬 5. Integers Constructors and Bases - Coding",
+    "date": "2026-09-13T07:38:40.000Z",
+    "link": "https://t.me/sm1523/150"
+  },
+  {
+    "id": "153",
+    "title": "🎬 6. Rational Numbers - Lecture",
+    "date": "2026-09-13T07:41:47.000Z",
+    "link": "https://t.me/sm1523/153"
+  },
+  {
+    "id": "156",
+    "title": "🎬 7. Rational Numbers - Coding",
+    "date": "2026-09-13T07:42:32.000Z",
+    "link": "https://t.me/sm1523/156"
+  },
+  {
+    "id": "159",
+    "title": "🎬 8. Floats Internal Representations - Lecture",
+    "date": "2026-09-13T07:50:49.000Z",
+    "link": "https://t.me/sm1523/159"
+  },
+  {
+    "id": "162",
+    "title": "🎬 9. Floats Internal Representations - Coding",
+    "date": "2026-09-13T07:51:09.000Z",
+    "link": "https://t.me/sm1523/162"
+  },
+  {
+    "id": "165",
+    "title": "🎬 10. Floats Equality Testing - Lecture",
+    "date": "2026-09-13T07:55:37.000Z",
+    "link": "https://t.me/sm1523/165"
+  },
+  {
+    "id": "168",
+    "title": "🎬 11. Floats Equality Testing - Coding",
+    "date": "2026-09-13T07:56:50.000Z",
+    "link": "https://t.me/sm1523/168"
+  },
+  {
+    "id": "171",
+    "title": "🎬 12. Floats Coercing to Integers - Lecture",
+    "date": "2026-09-13T07:59:14.000Z",
+    "link": "https://t.me/sm1523/171"
+  },
+  {
+    "id": "174",
+    "title": "🎬 13. Floats Coercing to Integers - Coding",
+    "date": "2026-09-13T08:01:53.000Z",
+    "link": "https://t.me/sm1523/174"
+  },
+  {
+    "id": "177",
+    "title": "🎬 14. Floats Rounding - Lecture",
+    "date": "2026-09-13T08:09:55.000Z",
+    "link": "https://t.me/sm1523/177"
+  },
+  {
+    "id": "180",
+    "title": "🎬 15. Floats Rounding - Coding",
+    "date": "2026-09-13T08:11:10.000Z",
+    "link": "https://t.me/sm1523/180"
+  },
+  {
+    "id": "183",
+    "title": "🎬 16. Decimals - Lecture",
+    "date": "2026-09-13T08:14:49.000Z",
+    "link": "https://t.me/sm1523/183"
+  },
+  {
+    "id": "186",
+    "title": "🎬 17. Decimals - Coding",
+    "date": "2026-09-13T08:15:45.000Z",
+    "link": "https://t.me/sm1523/186"
+  },
+  {
+    "id": "189",
+    "title": "🎬 18. Decimals Constructors and Contexts - Lecture",
+    "date": "2026-09-13T08:17:59.000Z",
+    "link": "https://t.me/sm1523/189"
+  },
+  {
+    "id": "192",
+    "title": "🎬 19. Decimals Constructors and Contexts - Coding",
+    "date": "2026-09-13T08:18:52.000Z",
+    "link": "https://t.me/sm1523/192"
+  },
+  {
+    "id": "195",
+    "title": "🎬 20. Decimals Math Operations - Lecture",
+    "date": "2026-09-13T08:21:22.000Z",
+    "link": "https://t.me/sm1523/195"
+  },
+  {
+    "id": "198",
+    "title": "🎬 21. Decimals Math Operations - Coding",
+    "date": "2026-09-13T08:22:48.000Z",
+    "link": "https://t.me/sm1523/198"
+  },
+  {
+    "id": "201",
+    "title": "🎬 22. Decimals Performance Considerations",
+    "date": "2026-09-13T08:26:08.000Z",
+    "link": "https://t.me/sm1523/201"
+  },
+  {
+    "id": "205",
+    "title": "🎬 23. Complex Numbers - Lecture",
+    "date": "2026-09-13T08:31:01.000Z",
+    "link": "https://t.me/sm1523/205"
+  },
+  {
+    "id": "208",
+    "title": "🎬 24. Complex Numbers - Coding",
+    "date": "2026-09-13T08:32:37.000Z",
+    "link": "https://t.me/sm1523/208"
+  },
+  {
+    "id": "211",
+    "title": "🎬 25. Booleans",
+    "date": "2026-09-13T08:44:55.000Z",
+    "link": "https://t.me/sm1523/211"
+  },
+  {
+    "id": "215",
+    "title": "🎬 26. Booleans Truth Values - Lecture",
+    "date": "2026-09-13T08:47:28.000Z",
+    "link": "https://t.me/sm1523/215"
+  },
+  {
+    "id": "218",
+    "title": "🎬 27. Booleans Truth Values - Coding",
+    "date": "2026-09-13T08:48:52.000Z",
+    "link": "https://t.me/sm1523/218"
+  },
+  {
+    "id": "221",
+    "title": "🎬 28. Booleans Precedence and Short-Circuiting - Lecture",
+    "date": "2026-09-13T08:55:25.000Z",
+    "link": "https://t.me/sm1523/221"
+  },
+  {
+    "id": "224",
+    "title": "🎬 29. Booleans Precedence and Short-Circuiting - Coding",
+    "date": "2026-09-13T08:56:52.000Z",
+    "link": "https://t.me/sm1523/224"
+  },
+  {
+    "id": "227",
+    "title": "🎬 30. Booleans Boolean Operators - Lecture",
+    "date": "2026-09-13T09:02:47.000Z",
+    "link": "https://t.me/sm1523/227"
+  },
+  {
+    "id": "230",
+    "title": "🎬 31. Booleans Boolean Operators - Coding",
+    "date": "2026-09-13T09:04:27.000Z",
+    "link": "https://t.me/sm1523/230"
+  },
+  {
+    "id": "233",
+    "title": "🎬 32. Comparison Operators",
+    "date": "2026-09-13T09:10:29.000Z",
+    "link": "https://t.me/sm1523/233"
+  },
+  {
+    "id": "238",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-13T09:11:02.000Z",
+    "link": "https://t.me/sm1523/238"
+  },
+  {
+    "id": "240",
+    "title": "🎬 2. Argument vs Parameter",
+    "date": "2026-09-13T09:12:33.000Z",
+    "link": "https://t.me/sm1523/240"
+  },
+  {
+    "id": "243",
+    "title": "🎬 3. Positional and Keyword Arguments - Lecture",
+    "date": "2026-09-13T09:20:10.000Z",
+    "link": "https://t.me/sm1523/243"
+  },
+  {
+    "id": "246",
+    "title": "🎬 4. Positional and Keyword Arguments - Coding",
+    "date": "2026-09-13T09:20:37.000Z",
+    "link": "https://t.me/sm1523/246"
+  },
+  {
+    "id": "249",
+    "title": "🎬 5. Unpacking Iterables - Lecture",
+    "date": "2026-09-13T09:25:33.000Z",
+    "link": "https://t.me/sm1523/249"
+  },
+  {
+    "id": "252",
+    "title": "🎬 6. Unpacking Iterables - Coding",
+    "date": "2026-09-13T09:27:04.000Z",
+    "link": "https://t.me/sm1523/252"
+  },
+  {
+    "id": "255",
+    "title": "🎬 7. Extended Unpacking - Lecture",
+    "date": "2026-09-13T09:30:46.000Z",
+    "link": "https://t.me/sm1523/255"
+  },
+  {
+    "id": "258",
+    "title": "🎬 8. Extended Unpacking - Coding",
+    "date": "2026-09-13T09:32:11.000Z",
+    "link": "https://t.me/sm1523/258"
+  },
+  {
+    "id": "261",
+    "title": "🎬 9. args - Lecture",
+    "date": "2026-09-13T09:33:26.000Z",
+    "link": "https://t.me/sm1523/261"
+  },
+  {
+    "id": "264",
+    "title": "🎬 10. args - Coding",
+    "date": "2026-09-13T09:34:03.000Z",
+    "link": "https://t.me/sm1523/264"
+  },
+  {
+    "id": "267",
+    "title": "🎬 11. Keyword Arguments - Lecture",
+    "date": "2026-09-13T09:36:00.000Z",
+    "link": "https://t.me/sm1523/267"
+  },
+  {
+    "id": "270",
+    "title": "🎬 12. Keyword Arguments - Coding",
+    "date": "2026-09-13T09:37:10.000Z",
+    "link": "https://t.me/sm1523/270"
+  },
+  {
+    "id": "273",
+    "title": "🎬 13. kwargs",
+    "date": "2026-09-13T09:39:07.000Z",
+    "link": "https://t.me/sm1523/273"
+  },
+  {
+    "id": "277",
+    "title": "🎬 14. Putting it all Together - Lecture",
+    "date": "2026-09-13T09:42:39.000Z",
+    "link": "https://t.me/sm1523/277"
+  },
+  {
+    "id": "280",
+    "title": "🎬 15. Putting it all Together - Coding",
+    "date": "2026-09-13T09:44:01.000Z",
+    "link": "https://t.me/sm1523/280"
+  },
+  {
+    "id": "283",
+    "title": "🎬 16. Application A Simple Function Timer",
+    "date": "2026-09-13T09:45:44.000Z",
+    "link": "https://t.me/sm1523/283"
+  },
+  {
+    "id": "286",
+    "title": "🎬 17. Parameter Defaults - Beware!!",
+    "date": "2026-09-13T09:50:26.000Z",
+    "link": "https://t.me/sm1523/286"
+  },
+  {
+    "id": "290",
+    "title": "🎬 18. Parameter Defaults - Beware Again!!",
+    "date": "2026-09-13T09:53:45.000Z",
+    "link": "https://t.me/sm1523/290"
+  },
+  {
+    "id": "294",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-13T09:55:06.000Z",
+    "link": "https://t.me/sm1523/294"
+  },
+  {
+    "id": "296",
+    "title": "🎬 2. Docstrings and Annotations - Lecture",
+    "date": "2026-09-13T10:00:45.000Z",
+    "link": "https://t.me/sm1523/296"
+  },
+  {
+    "id": "299",
+    "title": "🎬 3. Docstrings and Annotations - Coding",
+    "date": "2026-09-13T10:04:02.000Z",
+    "link": "https://t.me/sm1523/299"
+  },
+  {
+    "id": "302",
+    "title": "🎬 4. Lambda Expressions - Lecture",
+    "date": "2026-09-13T10:07:44.000Z",
+    "link": "https://t.me/sm1523/302"
+  },
+  {
+    "id": "305",
+    "title": "🎬 5. Lambda Expressions - Coding",
+    "date": "2026-09-13T10:08:38.000Z",
+    "link": "https://t.me/sm1523/305"
+  },
+  {
+    "id": "308",
+    "title": "🎬 6. Lambdas and Sorting",
+    "date": "2026-09-13T10:09:29.000Z",
+    "link": "https://t.me/sm1523/308"
+  },
+  {
+    "id": "311",
+    "title": "🎬 7. Challenge - Randomize an Iterable using Sorted!!",
+    "date": "2026-09-13T10:09:41.000Z",
+    "link": "https://t.me/sm1523/311"
+  },
+  {
+    "id": "314",
+    "title": "🎬 8. Function Introspection - Lecture",
+    "date": "2026-09-13T10:23:17.000Z",
+    "link": "https://t.me/sm1523/314"
+  },
+  {
+    "id": "317",
+    "title": "🎬 9. Function Introspection - Coding",
+    "date": "2026-09-13T10:30:58.000Z",
+    "link": "https://t.me/sm1523/317"
+  },
+  {
+    "id": "320",
+    "title": "🎬 10. Callables",
+    "date": "2026-09-13T10:35:52.000Z",
+    "link": "https://t.me/sm1523/320"
+  },
+  {
+    "id": "324",
+    "title": "🎬 11. Map, Filter, Zip and List Comprehensions - Lecture",
+    "date": "2026-09-13T10:40:19.000Z",
+    "link": "https://t.me/sm1523/324"
+  },
+  {
+    "id": "327",
+    "title": "🎬 12. Map, Filter, Zip and List Comprehensions - Coding",
+    "date": "2026-09-13T10:43:44.000Z",
+    "link": "https://t.me/sm1523/327"
+  },
+  {
+    "id": "330",
+    "title": "🎬 13. Reducing Functions - Lecture",
+    "date": "2026-09-13T10:49:24.000Z",
+    "link": "https://t.me/sm1523/330"
+  },
+  {
+    "id": "333",
+    "title": "🎬 14. Reducing Functions - Coding",
+    "date": "2026-09-13T10:50:48.000Z",
+    "link": "https://t.me/sm1523/333"
+  },
+  {
+    "id": "336",
+    "title": "🎬 15. Partial Functions - Lecture",
+    "date": "2026-09-13T10:53:10.000Z",
+    "link": "https://t.me/sm1523/336"
+  },
+  {
+    "id": "339",
+    "title": "🎬 16. Partial Functions - Coding",
+    "date": "2026-09-13T10:55:28.000Z",
+    "link": "https://t.me/sm1523/339"
+  },
+  {
+    "id": "342",
+    "title": "🎬 17. The operator Module - Lecture",
+    "date": "2026-09-13T10:58:52.000Z",
+    "link": "https://t.me/sm1523/342"
+  },
+  {
+    "id": "345",
+    "title": "🎬 18. The operator Module - Coding",
+    "date": "2026-09-13T11:01:41.000Z",
+    "link": "https://t.me/sm1523/345"
+  },
+  {
+    "id": "349",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-13T11:02:05.000Z",
+    "link": "https://t.me/sm1523/349"
+  },
+  {
+    "id": "351",
+    "title": "🎬 2. Global and Local Scopes - Lecture",
+    "date": "2026-09-13T11:15:06.000Z",
+    "link": "https://t.me/sm1523/351"
+  },
+  {
+    "id": "354",
+    "title": "🎬 3. Global and Local Scopes - Coding",
+    "date": "2026-09-13T11:16:10.000Z",
+    "link": "https://t.me/sm1523/354"
+  },
+  {
+    "id": "357",
+    "title": "🎬 4. Nonlocal Scopes - Lecture",
+    "date": "2026-09-13T11:22:34.000Z",
+    "link": "https://t.me/sm1523/357"
+  },
+  {
+    "id": "360",
+    "title": "🎬 5. Nonlocal Scopes - Coding",
+    "date": "2026-09-13T11:23:12.000Z",
+    "link": "https://t.me/sm1523/360"
+  },
+  {
+    "id": "363",
+    "title": "🎬 6. Closures - Lecture",
+    "date": "2026-09-13T11:31:36.000Z",
+    "link": "https://t.me/sm1523/363"
+  },
+  {
+    "id": "366",
+    "title": "🎬 7. Closures - Coding",
+    "date": "2026-09-13T11:36:37.000Z",
+    "link": "https://t.me/sm1523/366"
+  },
+  {
+    "id": "369",
+    "title": "🎬 8. Closure Applications - Part 1",
+    "date": "2026-09-13T11:37:49.000Z",
+    "link": "https://t.me/sm1523/369"
+  },
+  {
+    "id": "372",
+    "title": "🎬 9. Closure Applications - Part 2",
+    "date": "2026-09-13T11:38:51.000Z",
+    "link": "https://t.me/sm1523/372"
+  },
+  {
+    "id": "375",
+    "title": "🎬 10. Decorators (Part 1) - Lecture",
+    "date": "2026-09-13T11:43:40.000Z",
+    "link": "https://t.me/sm1523/375"
+  },
+  {
+    "id": "378",
+    "title": "🎬 11. Decorators (Part 1) - Coding",
+    "date": "2026-09-13T11:47:15.000Z",
+    "link": "https://t.me/sm1523/378"
+  },
+  {
+    "id": "381",
+    "title": "🎬 12. Decorator Application (Timer)",
+    "date": "2026-09-13T11:54:44.000Z",
+    "link": "https://t.me/sm1523/381"
+  },
+  {
+    "id": "384",
+    "title": "🎬 13. Decorator Application (Logger, Stacked Decorators)",
+    "date": "2026-09-13T11:56:40.000Z",
+    "link": "https://t.me/sm1523/384"
+  },
+  {
+    "id": "387",
+    "title": "🎬 14. Decorator Application (Memoization)",
+    "date": "2026-09-13T12:00:50.000Z",
+    "link": "https://t.me/sm1523/387"
+  },
+  {
+    "id": "390",
+    "title": "🎬 15. Decorator Factories - Lecture",
+    "date": "2026-09-13T12:03:11.000Z",
+    "link": "https://t.me/sm1523/390"
+  },
+  {
+    "id": "393",
+    "title": "🎬 16. Decorator Factories - Coding",
+    "date": "2026-09-13T12:05:13.000Z",
+    "link": "https://t.me/sm1523/393"
+  },
+  {
+    "id": "396",
+    "title": "🎬 17. Decorator Application (Decorator Class)",
+    "date": "2026-09-13T12:06:00.000Z",
+    "link": "https://t.me/sm1523/396"
+  },
+  {
+    "id": "399",
+    "title": "🎬 18. Decorator Application (Decorating Classes)",
+    "date": "2026-09-13T12:10:09.000Z",
+    "link": "https://t.me/sm1523/399"
+  },
+  {
+    "id": "402",
+    "title": "🎬 19. Decorator Application (Dispatching) - Part 1",
+    "date": "2026-09-13T12:19:02.000Z",
+    "link": "https://t.me/sm1523/402"
+  },
+  {
+    "id": "405",
+    "title": "🎬 20. Decorator Application (Dispatching) - Part 2",
+    "date": "2026-09-13T12:29:16.000Z",
+    "link": "https://t.me/sm1523/405"
+  },
+  {
+    "id": "407",
+    "title": "🎬 21. Decorator Application (Dispatching) - Part 3",
+    "date": "2026-09-13T12:34:53.000Z",
+    "link": "https://t.me/sm1523/407"
+  },
+  {
+    "id": "410",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-13T12:35:55.000Z",
+    "link": "https://t.me/sm1523/410"
+  },
+  {
+    "id": "412",
+    "title": "🎬 2. Tuples as Data Structures - Lecture",
+    "date": "2026-09-13T12:45:33.000Z",
+    "link": "https://t.me/sm1523/412"
+  },
+  {
+    "id": "415",
+    "title": "🎬 3. Tuples as Data Structures - Coding",
+    "date": "2026-09-13T12:47:54.000Z",
+    "link": "https://t.me/sm1523/415"
+  },
+  {
+    "id": "418",
+    "title": "🎬 4. Named Tuples - Lecture",
+    "date": "2026-09-13T12:57:33.000Z",
+    "link": "https://t.me/sm1523/418"
+  },
+  {
+    "id": "421",
+    "title": "🎬 5. Named Tuples - Coding",
+    "date": "2026-09-13T13:06:08.000Z",
+    "link": "https://t.me/sm1523/421"
+  },
+  {
+    "id": "424",
+    "title": "🎬 6. Named Tuples - Modifying and Extending - Lecture",
+    "date": "2026-09-13T13:25:26.000Z",
+    "link": "https://t.me/sm1523/424"
+  },
+  {
+    "id": "427",
+    "title": "🎬 7. Named Tuples - Modifying and Extending - Coding",
+    "date": "2026-09-13T13:43:10.000Z",
+    "link": "https://t.me/sm1523/427"
+  },
+  {
+    "id": "430",
+    "title": "🎬 8. Named Tuples - DocStrings and Default Values - Lecture",
+    "date": "2026-09-13T14:03:11.000Z",
+    "link": "https://t.me/sm1523/430"
+  },
+  {
+    "id": "433",
+    "title": "🎬 9. Named Tuples - DocStrings and Default Values - Coding",
+    "date": "2026-09-13T14:09:19.000Z",
+    "link": "https://t.me/sm1523/433"
+  },
+  {
+    "id": "436",
+    "title": "🎬 10. Named Tuples - Application - Returning Multiple Values",
+    "date": "2026-09-13T14:11:49.000Z",
+    "link": "https://t.me/sm1523/436"
+  },
+  {
+    "id": "439",
+    "title": "🎬 11. Named Tuples - Application - Alternative to Dictionaries",
+    "date": "2026-09-13T15:13:48.000Z",
+    "link": "https://t.me/sm1523/439"
+  },
+  {
+    "id": "443",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-13T15:18:07.000Z",
+    "link": "https://t.me/sm1523/443"
+  },
+  {
+    "id": "445",
+    "title": "🎬 2. What is a Module",
+    "date": "2026-09-13T15:28:52.000Z",
+    "link": "https://t.me/sm1523/445"
+  },
+  {
+    "id": "448",
+    "title": "🎬 3. How does Python Import Modules",
+    "date": "2026-09-13T15:56:42.000Z",
+    "link": "https://t.me/sm1523/448"
+  },
+  {
+    "id": "451",
+    "title": "🎬 4. Imports and importlib",
+    "date": "2026-09-13T16:01:08.000Z",
+    "link": "https://t.me/sm1523/451"
+  },
+  {
+    "id": "454",
+    "title": "🎬 5. Import Variants and Misconceptions - Lecture",
+    "date": "2026-09-13T16:10:51.000Z",
+    "link": "https://t.me/sm1523/454"
+  },
+  {
+    "id": "457",
+    "title": "🎬 6. Import Variants and Misconceptions - Coding",
+    "date": "2026-09-13T16:14:20.000Z",
+    "link": "https://t.me/sm1523/457"
+  },
+  {
+    "id": "460",
+    "title": "🎬 7. Reloading Modules",
+    "date": "2026-09-13T16:19:52.000Z",
+    "link": "https://t.me/sm1523/460"
+  },
+  {
+    "id": "463",
+    "title": "🎬 8. Using __main__",
+    "date": "2026-09-13T16:23:49.000Z",
+    "link": "https://t.me/sm1523/463"
+  },
+  {
+    "id": "466",
+    "title": "🎬 9. Modules Recap",
+    "date": "2026-09-13T16:29:10.000Z",
+    "link": "https://t.me/sm1523/466"
+  },
+  {
+    "id": "469",
+    "title": "🎬 10. What are Packages - Lecture",
+    "date": "2026-09-13T16:37:45.000Z",
+    "link": "https://t.me/sm1523/469"
+  },
+  {
+    "id": "472",
+    "title": "🎬 11. What are Packages - Coding",
+    "date": "2026-09-13T16:38:56.000Z",
+    "link": "https://t.me/sm1523/472"
+  },
+  {
+    "id": "475",
+    "title": "🎬 12. Why Packages",
+    "date": "2026-09-13T16:43:14.000Z",
+    "link": "https://t.me/sm1523/475"
+  },
+  {
+    "id": "478",
+    "title": "🎬 13. Structuring Packages - Part 1",
+    "date": "2026-09-13T16:44:58.000Z",
+    "link": "https://t.me/sm1523/478"
+  },
+  {
+    "id": "481",
+    "title": "🎬 14. Structuring Packages - Part 2",
+    "date": "2026-09-13T16:47:34.000Z",
+    "link": "https://t.me/sm1523/481"
+  },
+  {
+    "id": "484",
+    "title": "🎬 15. Namespace Packages",
+    "date": "2026-09-13T16:50:31.000Z",
+    "link": "https://t.me/sm1523/484"
+  },
+  {
+    "id": "487",
+    "title": "🎬 16. Importing from Zip Archives",
+    "date": "2026-09-13T16:50:54.000Z",
+    "link": "https://t.me/sm1523/487"
+  },
+  {
+    "id": "491",
+    "title": "🎬 1. Python 3.10",
+    "date": "2026-09-13T16:52:07.000Z",
+    "link": "https://t.me/sm1523/491"
+  },
+  {
+    "id": "494",
+    "title": "🎬 2. Python 3.9",
+    "date": "2026-09-13T16:53:24.000Z",
+    "link": "https://t.me/sm1523/494"
+  },
+  {
+    "id": "497",
+    "title": "🎬 3. Python 3.8 3.7",
+    "date": "2026-09-13T16:54:44.000Z",
+    "link": "https://t.me/sm1523/497"
+  },
+  {
+    "id": "500",
+    "title": "🎬 4. Python 3.6 Highlights",
+    "date": "2026-09-13T16:55:46.000Z",
+    "link": "https://t.me/sm1523/500"
+  },
+  {
+    "id": "503",
+    "title": "🎬 5. Python 3.6 - Dictionary Ordering",
+    "date": "2026-09-13T16:57:01.000Z",
+    "link": "https://t.me/sm1523/503"
+  },
+  {
+    "id": "506",
+    "title": "🎬 6. Python 3.6 - Underscores in Numeric Literals",
+    "date": "2026-09-13T16:57:13.000Z",
+    "link": "https://t.me/sm1523/506"
+  },
+  {
+    "id": "509",
+    "title": "🎬 7. Python 3.6 - Preserved Order of kwargs and Named Tuple Application",
+    "date": "2026-09-13T16:57:34.000Z",
+    "link": "https://t.me/sm1523/509"
+  },
+  {
+    "id": "512",
+    "title": "🎬 8. Python 3.6 - f-Strings",
+    "date": "2026-09-13T16:58:00.000Z",
+    "link": "https://t.me/sm1523/512"
+  },
+  {
+    "id": "516",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-13T16:58:57.000Z",
+    "link": "https://t.me/sm1523/516"
+  },
+  {
+    "id": "518",
+    "title": "🎬 2. Additional Resources",
+    "date": "2026-09-13T17:02:00.000Z",
+    "link": "https://t.me/sm1523/518"
+  },
+  {
+    "id": "521",
+    "title": "🎬 3. Random Seeds",
+    "date": "2026-09-13T17:04:04.000Z",
+    "link": "https://t.me/sm1523/521"
+  },
+  {
+    "id": "524",
+    "title": "🎬 4. Random Choices",
+    "date": "2026-09-13T17:06:11.000Z",
+    "link": "https://t.me/sm1523/524"
+  },
+  {
+    "id": "527",
+    "title": "🎬 5. Random Samples",
+    "date": "2026-09-13T17:06:56.000Z",
+    "link": "https://t.me/sm1523/527"
+  },
+  {
+    "id": "530",
+    "title": "🎬 6. Timing code using timeit",
+    "date": "2026-09-13T17:08:46.000Z",
+    "link": "https://t.me/sm1523/530"
+  },
+  {
+    "id": "533",
+    "title": "🎬 7. Don't Use args and kwargs Names Blindly",
+    "date": "2026-09-13T17:09:07.000Z",
+    "link": "https://t.me/sm1523/533"
+  },
+  {
+    "id": "536",
+    "title": "🎬 8. Command Line Arguments",
+    "date": "2026-09-13T17:12:14.000Z",
+    "link": "https://t.me/sm1523/536"
+  },
+  {
+    "id": "539",
+    "title": "🎬 9. Sentinel Values for Parameter Defaults",
+    "date": "2026-09-13T17:12:44.000Z",
+    "link": "https://t.me/sm1523/539"
+  },
+  {
+    "id": "544",
+    "title": "🎬 001 Course Overview",
+    "date": "2026-09-14T06:30:02.000Z",
+    "link": "https://t.me/sm1523/544"
+  },
+  {
+    "id": "547",
+    "title": "🎬 002 Pre-Requisites",
+    "date": "2026-09-14T06:31:22.000Z",
+    "link": "https://t.me/sm1523/547"
+  },
+  {
+    "id": "550",
+    "title": "🎬 003 Python Tools Needed",
+    "date": "2026-09-14T06:32:10.000Z",
+    "link": "https://t.me/sm1523/550"
+  },
+  {
+    "id": "556",
+    "title": "🎬 001 Introduction",
+    "date": "2026-09-14T06:32:58.000Z",
+    "link": "https://t.me/sm1523/556"
+  },
+  {
+    "id": "559",
+    "title": "🎬 002 Sequence Types - Lecture",
+    "date": "2026-09-14T06:37:02.000Z",
+    "link": "https://t.me/sm1523/559"
+  },
+  {
+    "id": "562",
+    "title": "🎬 003 Sequence Types - Coding",
+    "date": "2026-09-14T06:38:16.000Z",
+    "link": "https://t.me/sm1523/562"
+  },
+  {
+    "id": "565",
+    "title": "🎬 004 Mutable Sequence Types - Lecture",
+    "date": "2026-09-14T06:39:19.000Z",
+    "link": "https://t.me/sm1523/565"
+  },
+  {
+    "id": "568",
+    "title": "🎬 005 Mutable Sequence Types - Coding",
+    "date": "2026-09-14T06:39:44.000Z",
+    "link": "https://t.me/sm1523/568"
+  },
+  {
+    "id": "571",
+    "title": "🎬 006 Lists vs Tuples",
+    "date": "2026-09-14T06:40:46.000Z",
+    "link": "https://t.me/sm1523/571"
+  },
+  {
+    "id": "574",
+    "title": "🎬 007 Index Base and Slice Bounds - Rationale",
+    "date": "2026-09-14T06:42:37.000Z",
+    "link": "https://t.me/sm1523/574"
+  },
+  {
+    "id": "577",
+    "title": "🎬 008 Copying Sequences - Lecture",
+    "date": "2026-09-14T06:46:09.000Z",
+    "link": "https://t.me/sm1523/577"
+  },
+  {
+    "id": "580",
+    "title": "🎬 009 Copying Sequences - Coding",
+    "date": "2026-09-14T06:46:57.000Z",
+    "link": "https://t.me/sm1523/580"
+  },
+  {
+    "id": "583",
+    "title": "🎬 010 Slicing - Lecture",
+    "date": "2026-09-14T06:51:04.000Z",
+    "link": "https://t.me/sm1523/583"
+  },
+  {
+    "id": "586",
+    "title": "🎬 011 Slicing - Coding",
+    "date": "2026-09-14T06:51:26.000Z",
+    "link": "https://t.me/sm1523/586"
+  },
+  {
+    "id": "589",
+    "title": "🎬 012 Custom Sequences - Part 1 - Lecture",
+    "date": "2026-09-14T06:52:43.000Z",
+    "link": "https://t.me/sm1523/589"
+  },
+  {
+    "id": "592",
+    "title": "🎬 013 Custom Sequences - Part 1 - Coding",
+    "date": "2026-09-14T06:53:48.000Z",
+    "link": "https://t.me/sm1523/592"
+  },
+  {
+    "id": "595",
+    "title": "🎬 014 In-Place Concatenation and Repetition - Lecture",
+    "date": "2026-09-14T06:54:33.000Z",
+    "link": "https://t.me/sm1523/595"
+  },
+  {
+    "id": "598",
+    "title": "🎬 015 In-Place Concatenation and Repetition - Coding",
+    "date": "2026-09-14T06:54:47.000Z",
+    "link": "https://t.me/sm1523/598"
+  },
+  {
+    "id": "601",
+    "title": "🎬 016 Assignments in Mutable Sequences - Lecture",
+    "date": "2026-09-14T06:55:49.000Z",
+    "link": "https://t.me/sm1523/601"
+  },
+  {
+    "id": "604",
+    "title": "🎬 017 Assignments in Mutable Sequences - Coding",
+    "date": "2026-09-14T06:56:18.000Z",
+    "link": "https://t.me/sm1523/604"
+  },
+  {
+    "id": "607",
+    "title": "🎬 018 Custom Sequences - Part 2 - Lecture",
+    "date": "2026-09-14T06:58:20.000Z",
+    "link": "https://t.me/sm1523/607"
+  },
+  {
+    "id": "610",
+    "title": "🎬 019 Custom Sequences - Part 2A - Coding",
+    "date": "2026-09-14T06:59:05.000Z",
+    "link": "https://t.me/sm1523/610"
+  },
+  {
+    "id": "613",
+    "title": "🎬 020 Custom Sequences - Part 2B - Coding",
+    "date": "2026-09-14T07:00:48.000Z",
+    "link": "https://t.me/sm1523/613"
+  },
+  {
+    "id": "616",
+    "title": "🎬 021 Custom Sequences - Part 2C - Coding",
+    "date": "2026-09-14T07:02:08.000Z",
+    "link": "https://t.me/sm1523/616"
+  },
+  {
+    "id": "619",
+    "title": "🎬 022 Sorting Sequences - Lecture",
+    "date": "2026-09-14T07:04:28.000Z",
+    "link": "https://t.me/sm1523/619"
+  },
+  {
+    "id": "622",
+    "title": "🎬 023 Sorting Sequences - Coding",
+    "date": "2026-09-14T07:05:20.000Z",
+    "link": "https://t.me/sm1523/622"
+  },
+  {
+    "id": "625",
+    "title": "🎬 024 List Comprehensions - Lecture",
+    "date": "2026-09-14T07:07:50.000Z",
+    "link": "https://t.me/sm1523/625"
+  },
+  {
+    "id": "628",
+    "title": "🎬 025 List Comprehensions - Coding",
+    "date": "2026-09-14T07:09:07.000Z",
+    "link": "https://t.me/sm1523/628"
+  },
+  {
+    "id": "632",
+    "title": "🎬 001 Project Description",
+    "date": "2026-09-14T07:10:41.000Z",
+    "link": "https://t.me/sm1523/632"
+  },
+  {
+    "id": "636",
+    "title": "🎬 002 Project Solution Goal 1",
+    "date": "2026-09-14T07:12:33.000Z",
+    "link": "https://t.me/sm1523/636"
+  },
+  {
+    "id": "639",
+    "title": "🎬 003 Project Solution Goal 2",
+    "date": "2026-09-14T07:12:59.000Z",
+    "link": "https://t.me/sm1523/639"
+  },
+  {
+    "id": "643",
+    "title": "🎬 001 Introduction",
+    "date": "2026-09-14T07:13:38.000Z",
+    "link": "https://t.me/sm1523/643"
+  },
+  {
+    "id": "646",
+    "title": "🎬 002 Iterating Collections - Lecture",
+    "date": "2026-09-14T07:15:14.000Z",
+    "link": "https://t.me/sm1523/646"
+  },
+  {
+    "id": "649",
+    "title": "🎬 003 Iterating Collections - Coding",
+    "date": "2026-09-14T07:15:53.000Z",
+    "link": "https://t.me/sm1523/649"
+  },
+  {
+    "id": "652",
+    "title": "🎬 004 Iterators - Lecture",
+    "date": "2026-09-14T07:16:56.000Z",
+    "link": "https://t.me/sm1523/652"
+  },
+  {
+    "id": "655",
+    "title": "🎬 005 Iterators - Coding",
+    "date": "2026-09-14T07:17:33.000Z",
+    "link": "https://t.me/sm1523/655"
+  },
+  {
+    "id": "658",
+    "title": "🎬 006 Iterators and Iterables - Lecture",
+    "date": "2026-09-14T07:19:18.000Z",
+    "link": "https://t.me/sm1523/658"
+  },
+  {
+    "id": "661",
+    "title": "🎬 007 Iterators and Iterables - Coding",
+    "date": "2026-09-14T07:20:28.000Z",
+    "link": "https://t.me/sm1523/661"
+  },
+  {
+    "id": "664",
+    "title": "🎬 008 Example 1 - Consuming Iterators Manually",
+    "date": "2026-09-14T07:21:23.000Z",
+    "link": "https://t.me/sm1523/664"
+  },
+  {
+    "id": "667",
+    "title": "🎬 009 Example 2 - Cyclic Iterators",
+    "date": "2026-09-14T07:22:28.000Z",
+    "link": "https://t.me/sm1523/667"
+  },
+  {
+    "id": "670",
+    "title": "🎬 010 Lazy Iterables - Lecture",
+    "date": "2026-09-14T07:23:06.000Z",
+    "link": "https://t.me/sm1523/670"
+  },
+  {
+    "id": "673",
+    "title": "🎬 011 Lazy Iterables - Coding",
+    "date": "2026-09-14T07:23:36.000Z",
+    "link": "https://t.me/sm1523/673"
+  },
+  {
+    "id": "676",
+    "title": "🎬 012 Python's Built-In Iterables and Iterators - Lecture",
+    "date": "2026-09-14T07:23:59.000Z",
+    "link": "https://t.me/sm1523/676"
+  },
+  {
+    "id": "679",
+    "title": "🎬 013 Python's Built-In Iterables and Iterators - Coding",
+    "date": "2026-09-14T07:24:53.000Z",
+    "link": "https://t.me/sm1523/679"
+  },
+  {
+    "id": "682",
+    "title": "🎬 014 Sorting Iterables",
+    "date": "2026-09-14T07:25:07.000Z",
+    "link": "https://t.me/sm1523/682"
+  },
+  {
+    "id": "685",
+    "title": "🎬 015 The iter() Function - Lecture",
+    "date": "2026-09-14T07:26:05.000Z",
+    "link": "https://t.me/sm1523/685"
+  },
+  {
+    "id": "688",
+    "title": "🎬 016 The iter() Function - Coding",
+    "date": "2026-09-14T07:26:29.000Z",
+    "link": "https://t.me/sm1523/688"
+  },
+  {
+    "id": "691",
+    "title": "🎬 017 Iterating Callables - Lecture",
+    "date": "2026-09-14T07:27:16.000Z",
+    "link": "https://t.me/sm1523/691"
+  },
+  {
+    "id": "694",
+    "title": "🎬 018 Iterating Callables - Coding",
+    "date": "2026-09-14T07:27:44.000Z",
+    "link": "https://t.me/sm1523/694"
+  },
+  {
+    "id": "697",
+    "title": "🎬 019 Example 3 - Delegating Iterators",
+    "date": "2026-09-14T07:28:00.000Z",
+    "link": "https://t.me/sm1523/697"
+  },
+  {
+    "id": "700",
+    "title": "🎬 020 Reversed Iteration - Lecture",
+    "date": "2026-09-14T07:29:30.000Z",
+    "link": "https://t.me/sm1523/700"
+  },
+  {
+    "id": "703",
+    "title": "🎬 021 Reversed Iteration - Coding",
+    "date": "2026-09-14T07:30:29.000Z",
+    "link": "https://t.me/sm1523/703"
+  },
+  {
+    "id": "706",
+    "title": "🎬 022 Caveat Using Iterators as Function Arguments",
+    "date": "2026-09-14T07:31:14.000Z",
+    "link": "https://t.me/sm1523/706"
+  },
+  {
+    "id": "710",
+    "title": "🎬 001 Project Description",
+    "date": "2026-09-14T07:31:36.000Z",
+    "link": "https://t.me/sm1523/710"
+  },
+  {
+    "id": "713",
+    "title": "🎬 002 Project Solution Goal 1",
+    "date": "2026-09-14T07:31:50.000Z",
+    "link": "https://t.me/sm1523/713"
+  },
+  {
+    "id": "716",
+    "title": "🎬 003 Project Solution Goal 2",
+    "date": "2026-09-14T07:32:15.000Z",
+    "link": "https://t.me/sm1523/716"
+  },
+  {
+    "id": "720",
+    "title": "🎬 001 Introduction",
+    "date": "2026-09-14T07:32:42.000Z",
+    "link": "https://t.me/sm1523/720"
+  },
+  {
+    "id": "723",
+    "title": "🎬 002 Yielding and Generator Functions - Lecture",
+    "date": "2026-09-14T07:35:01.000Z",
+    "link": "https://t.me/sm1523/723"
+  },
+  {
+    "id": "726",
+    "title": "🎬 003 Yielding and Generator Functions - Coding",
+    "date": "2026-09-14T07:35:35.000Z",
+    "link": "https://t.me/sm1523/726"
+  },
+  {
+    "id": "729",
+    "title": "🎬 004 Example - Fibonacci Sequence",
+    "date": "2026-09-14T07:36:08.000Z",
+    "link": "https://t.me/sm1523/729"
+  },
+  {
+    "id": "732",
+    "title": "🎬 005 Making an Iterable from a Generator - Lecture",
+    "date": "2026-09-14T07:37:14.000Z",
+    "link": "https://t.me/sm1523/732"
+  },
+  {
+    "id": "735",
+    "title": "🎬 006 Making an Iterable from a Generator - Coding",
+    "date": "2026-09-14T07:37:29.000Z",
+    "link": "https://t.me/sm1523/735"
+  },
+  {
+    "id": "738",
+    "title": "🎬 007 Example - Card Deck",
+    "date": "2026-09-14T07:37:52.000Z",
+    "link": "https://t.me/sm1523/738"
+  },
+  {
+    "id": "741",
+    "title": "🎬 008 Generator Expressions and Performance - Lecture",
+    "date": "2026-09-14T07:39:11.000Z",
+    "link": "https://t.me/sm1523/741"
+  },
+  {
+    "id": "744",
+    "title": "🎬 009 Generator Expressions and Performance - Coding",
+    "date": "2026-09-14T07:40:47.000Z",
+    "link": "https://t.me/sm1523/744"
+  },
+  {
+    "id": "747",
+    "title": "🎬 010 Yield From - Lecture",
+    "date": "2026-09-14T07:41:15.000Z",
+    "link": "https://t.me/sm1523/747"
+  },
+  {
+    "id": "750",
+    "title": "🎬 011 Yield From - Coding",
+    "date": "2026-09-14T07:41:38.000Z",
+    "link": "https://t.me/sm1523/750"
+  },
+  {
+    "id": "754",
+    "title": "🎬 001 Project Description",
+    "date": "2026-09-14T07:42:38.000Z",
+    "link": "https://t.me/sm1523/754"
+  },
+  {
+    "id": "757",
+    "title": "🎬 002 Project Solution Goal 1",
+    "date": "2026-09-14T07:44:57.000Z",
+    "link": "https://t.me/sm1523/757"
+  },
+  {
+    "id": "760",
+    "title": "🎬 003 Project Solution Goal 2",
+    "date": "2026-09-14T07:45:44.000Z",
+    "link": "https://t.me/sm1523/760"
+  },
+  {
+    "id": "764",
+    "title": "🎬 001 Introduction",
+    "date": "2026-09-14T07:46:44.000Z",
+    "link": "https://t.me/sm1523/764"
+  },
+  {
+    "id": "767",
+    "title": "🎬 002 Aggregators - Lecture",
+    "date": "2026-09-14T07:48:19.000Z",
+    "link": "https://t.me/sm1523/767"
+  },
+  {
+    "id": "770",
+    "title": "🎬 003 Aggregators - Coding",
+    "date": "2026-09-14T07:48:58.000Z",
+    "link": "https://t.me/sm1523/770"
+  },
+  {
+    "id": "773",
+    "title": "🎬 004 Slicing - Lecture",
+    "date": "2026-09-14T07:49:26.000Z",
+    "link": "https://t.me/sm1523/773"
+  },
+  {
+    "id": "776",
+    "title": "🎬 005 Slicing - Coding",
+    "date": "2026-09-14T07:49:54.000Z",
+    "link": "https://t.me/sm1523/776"
+  },
+  {
+    "id": "779",
+    "title": "🎬 006 Selecting and Filtering - Lecture",
+    "date": "2026-09-14T07:51:30.000Z",
+    "link": "https://t.me/sm1523/779"
+  },
+  {
+    "id": "782",
+    "title": "🎬 007 Selecting and Filtering - Coding",
+    "date": "2026-09-14T07:51:57.000Z",
+    "link": "https://t.me/sm1523/782"
+  },
+  {
+    "id": "785",
+    "title": "🎬 008 Infinite Iterators - Lecture",
+    "date": "2026-09-14T07:52:42.000Z",
+    "link": "https://t.me/sm1523/785"
+  },
+  {
+    "id": "788",
+    "title": "🎬 009 Infinite Iterators - Coding",
+    "date": "2026-09-14T07:53:14.000Z",
+    "link": "https://t.me/sm1523/788"
+  },
+  {
+    "id": "791",
+    "title": "🎬 010 Chaining and Teeing - Lecture",
+    "date": "2026-09-14T07:54:29.000Z",
+    "link": "https://t.me/sm1523/791"
+  },
+  {
+    "id": "794",
+    "title": "🎬 011 Chaining and Teeing - Coding",
+    "date": "2026-09-14T07:55:00.000Z",
+    "link": "https://t.me/sm1523/794"
+  },
+  {
+    "id": "797",
+    "title": "🎬 012 Mapping and Reducing - Lecture",
+    "date": "2026-09-14T07:56:57.000Z",
+    "link": "https://t.me/sm1523/797"
+  },
+  {
+    "id": "800",
+    "title": "🎬 013 Mapping and Reducing - Coding",
+    "date": "2026-09-14T07:57:29.000Z",
+    "link": "https://t.me/sm1523/800"
+  },
+  {
+    "id": "803",
+    "title": "🎬 014 Zipping - Lecture",
+    "date": "2026-09-14T07:57:56.000Z",
+    "link": "https://t.me/sm1523/803"
+  },
+  {
+    "id": "806",
+    "title": "🎬 015 Zipping - Coding",
+    "date": "2026-09-14T07:58:13.000Z",
+    "link": "https://t.me/sm1523/806"
+  },
+  {
+    "id": "809",
+    "title": "🎬 016 Grouping - Lecture",
+    "date": "2026-09-14T07:59:32.000Z",
+    "link": "https://t.me/sm1523/809"
+  },
+  {
+    "id": "812",
+    "title": "🎬 017 Grouping - Coding",
+    "date": "2026-09-14T08:00:51.000Z",
+    "link": "https://t.me/sm1523/812"
+  },
+  {
+    "id": "815",
+    "title": "🎬 018 Combinatorics - Lecture",
+    "date": "2026-09-14T08:02:00.000Z",
+    "link": "https://t.me/sm1523/815"
+  },
+  {
+    "id": "818",
+    "title": "🎬 019 Combinatorics - Coding (Product)",
+    "date": "2026-09-14T08:02:45.000Z",
+    "link": "https://t.me/sm1523/818"
+  },
+  {
+    "id": "821",
+    "title": "🎬 020 Combinatorics - Coding (Permutation, Combination)",
+    "date": "2026-09-14T08:03:40.000Z",
+    "link": "https://t.me/sm1523/821"
+  },
+  {
+    "id": "825",
+    "title": "🎬 001 Project - Description",
+    "date": "2026-09-14T08:06:11.000Z",
+    "link": "https://t.me/sm1523/825"
+  },
+  {
+    "id": "828",
+    "title": "🎬 002 Project Solution Goal 1",
+    "date": "2026-09-14T08:08:17.000Z",
+    "link": "https://t.me/sm1523/828"
+  },
+  {
+    "id": "831",
+    "title": "🎬 003 Project Solution Goal 2",
+    "date": "2026-09-14T08:11:14.000Z",
+    "link": "https://t.me/sm1523/831"
+  },
+  {
+    "id": "834",
+    "title": "🎬 004 Project Solution Goal 3",
+    "date": "2026-09-14T08:11:55.000Z",
+    "link": "https://t.me/sm1523/834"
+  },
+  {
+    "id": "837",
+    "title": "🎬 005 Project Solution Goal 4",
+    "date": "2026-09-14T08:15:05.000Z",
+    "link": "https://t.me/sm1523/837"
+  },
+  {
+    "id": "841",
+    "title": "🎬 001 Introduction",
+    "date": "2026-09-14T08:16:48.000Z",
+    "link": "https://t.me/sm1523/841"
+  },
+  {
+    "id": "844",
+    "title": "🎬 002 Context Managers - Lecture",
+    "date": "2026-09-14T08:19:46.000Z",
+    "link": "https://t.me/sm1523/844"
+  },
+  {
+    "id": "847",
+    "title": "🎬 003 Context Managers - Coding",
+    "date": "2026-09-14T08:21:15.000Z",
+    "link": "https://t.me/sm1523/847"
+  },
+  {
+    "id": "850",
+    "title": "🎬 004 Caveat when used with Lazy Iterators",
+    "date": "2026-09-14T08:21:25.000Z",
+    "link": "https://t.me/sm1523/850"
+  },
+  {
+    "id": "853",
+    "title": "🎬 005 Not just a Context Manager",
+    "date": "2026-09-14T08:21:49.000Z",
+    "link": "https://t.me/sm1523/853"
+  },
+  {
+    "id": "856",
+    "title": "🎬 006 Additional Uses - Lecture",
+    "date": "2026-09-14T08:22:49.000Z",
+    "link": "https://t.me/sm1523/856"
+  },
+  {
+    "id": "859",
+    "title": "🎬 007 Additional Uses - Coding",
+    "date": "2026-09-14T08:24:18.000Z",
+    "link": "https://t.me/sm1523/859"
+  },
+  {
+    "id": "862",
+    "title": "🎬 008 Generators and Context Managers - Lecture",
+    "date": "2026-09-14T08:25:54.000Z",
+    "link": "https://t.me/sm1523/862"
+  },
+  {
+    "id": "865",
+    "title": "🎬 009 Generators and Context Managers - Coding",
+    "date": "2026-09-14T08:26:29.000Z",
+    "link": "https://t.me/sm1523/865"
+  },
+  {
+    "id": "868",
+    "title": "🎬 010 The contextmanager Decorator - Lecture",
+    "date": "2026-09-14T08:27:49.000Z",
+    "link": "https://t.me/sm1523/868"
+  },
+  {
+    "id": "871",
+    "title": "🎬 011 The contextmanager Decorator - Coding",
+    "date": "2026-09-14T08:28:36.000Z",
+    "link": "https://t.me/sm1523/871"
+  },
+  {
+    "id": "874",
+    "title": "🎬 012 Nested Context Managers",
+    "date": "2026-09-14T08:29:33.000Z",
+    "link": "https://t.me/sm1523/874"
+  },
+  {
+    "id": "878",
+    "title": "🎬 001 Project - Description",
+    "date": "2026-09-14T08:31:08.000Z",
+    "link": "https://t.me/sm1523/878"
+  },
+  {
+    "id": "881",
+    "title": "🎬 002 Project Solution Goal 1",
+    "date": "2026-09-14T08:31:54.000Z",
+    "link": "https://t.me/sm1523/881"
+  },
+  {
+    "id": "884",
+    "title": "🎬 003 Project Solution Goal 2",
+    "date": "2026-09-14T08:32:34.000Z",
+    "link": "https://t.me/sm1523/884"
+  },
+  {
+    "id": "888",
+    "title": "🎬 001 Python 3.10",
+    "date": "2026-09-14T08:33:12.000Z",
+    "link": "https://t.me/sm1523/888"
+  },
+  {
+    "id": "891",
+    "title": "🎬 002 Python 3.9",
+    "date": "2026-09-14T08:33:56.000Z",
+    "link": "https://t.me/sm1523/891"
+  },
+  {
+    "id": "894",
+    "title": "🎬 003 Python 3.8 3.7",
+    "date": "2026-09-14T08:34:50.000Z",
+    "link": "https://t.me/sm1523/894"
+  },
+  {
+    "id": "899",
+    "title": "🎬 002 Introduction",
+    "date": "2026-09-14T08:36:40.000Z",
+    "link": "https://t.me/sm1523/899"
+  },
+  {
+    "id": "902",
+    "title": "🎬 003 Coroutines - Lecture",
+    "date": "2026-09-14T08:42:40.000Z",
+    "link": "https://t.me/sm1523/902"
+  },
+  {
+    "id": "905",
+    "title": "🎬 004 Coroutines - Coding",
+    "date": "2026-09-14T08:45:10.000Z",
+    "link": "https://t.me/sm1523/905"
+  },
+  {
+    "id": "908",
+    "title": "🎬 005 Generator States - Lecture",
+    "date": "2026-09-14T08:45:45.000Z",
+    "link": "https://t.me/sm1523/908"
+  },
+  {
+    "id": "911",
+    "title": "🎬 006 Generator States - Coding",
+    "date": "2026-09-14T08:47:09.000Z",
+    "link": "https://t.me/sm1523/911"
+  },
+  {
+    "id": "914",
+    "title": "🎬 007 Sending to Generators - Lecture",
+    "date": "2026-09-14T08:49:39.000Z",
+    "link": "https://t.me/sm1523/914"
+  },
+  {
+    "id": "917",
+    "title": "🎬 008 Sending to Generators - Coding",
+    "date": "2026-09-14T08:52:54.000Z",
+    "link": "https://t.me/sm1523/917"
+  },
+  {
+    "id": "920",
+    "title": "🎬 009 Closing Generators - Lecture",
+    "date": "2026-09-14T08:53:59.000Z",
+    "link": "https://t.me/sm1523/920"
+  },
+  {
+    "id": "923",
+    "title": "🎬 010 Closing Generators - Coding",
+    "date": "2026-09-14T08:57:26.000Z",
+    "link": "https://t.me/sm1523/923"
+  },
+  {
+    "id": "926",
+    "title": "🎬 011 Sending Exceptions to Generators - Lecture",
+    "date": "2026-09-14T08:58:45.000Z",
+    "link": "https://t.me/sm1523/926"
+  },
+  {
+    "id": "929",
+    "title": "🎬 012 Sending Exceptions to Generators - Coding",
+    "date": "2026-09-14T09:02:08.000Z",
+    "link": "https://t.me/sm1523/929"
+  },
+  {
+    "id": "932",
+    "title": "🎬 013 Using Decorators to Prime Coroutines - Lecture",
+    "date": "2026-09-14T09:03:24.000Z",
+    "link": "https://t.me/sm1523/932"
+  },
+  {
+    "id": "935",
+    "title": "🎬 014 Using Decorators to Prime Coroutines - Coding",
+    "date": "2026-09-14T09:05:43.000Z",
+    "link": "https://t.me/sm1523/935"
+  },
+  {
+    "id": "938",
+    "title": "🎬 015 Yield From - Two-Way Communications - Lecture",
+    "date": "2026-09-14T09:07:22.000Z",
+    "link": "https://t.me/sm1523/938"
+  },
+  {
+    "id": "941",
+    "title": "🎬 016 Yield From - Two-Way Communications - Coding",
+    "date": "2026-09-14T09:09:29.000Z",
+    "link": "https://t.me/sm1523/941"
+  },
+  {
+    "id": "944",
+    "title": "🎬 017 Yield From - Sending Data - Lecture",
+    "date": "2026-09-14T09:10:20.000Z",
+    "link": "https://t.me/sm1523/944"
+  },
+  {
+    "id": "947",
+    "title": "🎬 018 Yield From - Sending Data - Coding",
+    "date": "2026-09-14T09:14:26.000Z",
+    "link": "https://t.me/sm1523/947"
+  },
+  {
+    "id": "950",
+    "title": "🎬 019 Yield From - Closing and Return - Lecture",
+    "date": "2026-09-14T09:15:46.000Z",
+    "link": "https://t.me/sm1523/950"
+  },
+  {
+    "id": "953",
+    "title": "🎬 020 Yield From - Closing and Return - Coding",
+    "date": "2026-09-14T09:18:46.000Z",
+    "link": "https://t.me/sm1523/953"
+  },
+  {
+    "id": "956",
+    "title": "🎬 021 Yield From - Throwing Exceptions - Lecture",
+    "date": "2026-09-14T09:19:18.000Z",
+    "link": "https://t.me/sm1523/956"
+  },
+  {
+    "id": "959",
+    "title": "🎬 022 Yield From - Throwing Exceptions - Coding",
+    "date": "2026-09-14T09:21:59.000Z",
+    "link": "https://t.me/sm1523/959"
+  },
+  {
+    "id": "962",
+    "title": "🎬 023 Application - Pipelines - Lecture",
+    "date": "2026-09-14T09:22:52.000Z",
+    "link": "https://t.me/sm1523/962"
+  },
+  {
+    "id": "965",
+    "title": "🎬 024 Application - Pipelines - Pulling Data",
+    "date": "2026-09-14T09:25:15.000Z",
+    "link": "https://t.me/sm1523/965"
+  },
+  {
+    "id": "968",
+    "title": "🎬 025 Application - Pipelines - Pushing Data",
+    "date": "2026-09-14T09:25:33.000Z",
+    "link": "https://t.me/sm1523/968"
+  },
+  {
+    "id": "971",
+    "title": "🎬 026 Application - Pipelines - Broadcasting Data",
+    "date": "2026-09-14T09:27:31.000Z",
+    "link": "https://t.me/sm1523/971"
+  },
+  {
+    "id": "975",
+    "title": "🎬 001 Project Description",
+    "date": "2026-09-14T09:27:43.000Z",
+    "link": "https://t.me/sm1523/975"
+  },
+  {
+    "id": "978",
+    "title": "🎬 002 Project Solution",
+    "date": "2026-09-14T09:28:21.000Z",
+    "link": "https://t.me/sm1523/978"
+  },
+  {
+    "id": "983",
     "title": "🎬 1. Course Overview",
-    "date": "2026-09-13T05:23:55.000Z",
-    "link": "https://t.me/sm1523/41"
+    "date": "2026-09-14T09:29:38.000Z",
+    "link": "https://t.me/sm1523/983"
+  },
+  {
+    "id": "985",
+    "title": "🎬 2. Prerequisites",
+    "date": "2026-09-14T09:30:12.000Z",
+    "link": "https://t.me/sm1523/985"
+  },
+  {
+    "id": "990",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-14T09:31:59.000Z",
+    "link": "https://t.me/sm1523/990"
+  },
+  {
+    "id": "992",
+    "title": "🎬 2. Associative Arrays",
+    "date": "2026-09-14T09:33:54.000Z",
+    "link": "https://t.me/sm1523/992"
+  },
+  {
+    "id": "995",
+    "title": "🎬 3. Hash Maps",
+    "date": "2026-09-14T09:42:02.000Z",
+    "link": "https://t.me/sm1523/995"
+  },
+  {
+    "id": "998",
+    "title": "🎬 4. Python Dictionaries",
+    "date": "2026-09-14T09:47:48.000Z",
+    "link": "https://t.me/sm1523/998"
+  },
+  {
+    "id": "1001",
+    "title": "🎬 5. Python's hash() Function",
+    "date": "2026-09-14T09:52:16.000Z",
+    "link": "https://t.me/sm1523/1001"
+  },
+  {
+    "id": "1005",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-14T09:54:38.000Z",
+    "link": "https://t.me/sm1523/1005"
+  },
+  {
+    "id": "1007",
+    "title": "🎬 2. Creating Dictionaries - Lecture",
+    "date": "2026-09-14T09:59:31.000Z",
+    "link": "https://t.me/sm1523/1007"
+  },
+  {
+    "id": "1009",
+    "title": "🎬 3. Creating Dictionaries - Coding",
+    "date": "2026-09-14T10:03:04.000Z",
+    "link": "https://t.me/sm1523/1009"
+  },
+  {
+    "id": "1012",
+    "title": "🎬 4. Common Operations - Lecture",
+    "date": "2026-09-14T10:06:09.000Z",
+    "link": "https://t.me/sm1523/1012"
+  },
+  {
+    "id": "1015",
+    "title": "🎬 5. Common Operations - Coding",
+    "date": "2026-09-14T10:10:19.000Z",
+    "link": "https://t.me/sm1523/1015"
+  },
+  {
+    "id": "1018",
+    "title": "🎬 6. Dictionary Views - Lecture",
+    "date": "2026-09-14T10:14:49.000Z",
+    "link": "https://t.me/sm1523/1018"
+  },
+  {
+    "id": "1021",
+    "title": "🎬 7. Dictionary Views - Coding",
+    "date": "2026-09-14T10:19:17.000Z",
+    "link": "https://t.me/sm1523/1021"
+  },
+  {
+    "id": "1024",
+    "title": "🎬 8. Updating, Merging, and Copying - Lecture",
+    "date": "2026-09-14T10:24:38.000Z",
+    "link": "https://t.me/sm1523/1024"
+  },
+  {
+    "id": "1026",
+    "title": "🎬 9. Updating, Merging, and Copying - Coding",
+    "date": "2026-09-14T10:29:59.000Z",
+    "link": "https://t.me/sm1523/1026"
+  },
+  {
+    "id": "1029",
+    "title": "🎬 10. Custom Classes and Hashing - Lecture",
+    "date": "2026-09-14T10:38:45.000Z",
+    "link": "https://t.me/sm1523/1029"
+  },
+  {
+    "id": "1032",
+    "title": "🎬 11. Custom Classes and Hashing - Coding",
+    "date": "2026-09-14T10:43:21.000Z",
+    "link": "https://t.me/sm1523/1032"
+  },
+  {
+    "id": "1036",
+    "title": "🎬 1. Exercises",
+    "date": "2026-09-14T10:44:48.000Z",
+    "link": "https://t.me/sm1523/1036"
+  },
+  {
+    "id": "1039",
+    "title": "🎬 2. Solution 1",
+    "date": "2026-09-14T10:45:19.000Z",
+    "link": "https://t.me/sm1523/1039"
+  },
+  {
+    "id": "1042",
+    "title": "🎬 3. Solution 2",
+    "date": "2026-09-14T10:45:27.000Z",
+    "link": "https://t.me/sm1523/1042"
+  },
+  {
+    "id": "1045",
+    "title": "🎬 4. Solution 3",
+    "date": "2026-09-14T10:45:59.000Z",
+    "link": "https://t.me/sm1523/1045"
+  },
+  {
+    "id": "1048",
+    "title": "🎬 5. Solution 4",
+    "date": "2026-09-14T10:46:20.000Z",
+    "link": "https://t.me/sm1523/1048"
+  },
+  {
+    "id": "1052",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-14T10:47:14.000Z",
+    "link": "https://t.me/sm1523/1052"
+  },
+  {
+    "id": "1054",
+    "title": "🎬 2. Basic Set Theory",
+    "date": "2026-09-14T10:55:21.000Z",
+    "link": "https://t.me/sm1523/1054"
+  },
+  {
+    "id": "1057",
+    "title": "🎬 3. Python Sets",
+    "date": "2026-09-14T11:02:37.000Z",
+    "link": "https://t.me/sm1523/1057"
+  },
+  {
+    "id": "1060",
+    "title": "🎬 4. Creating Sets - Lecture",
+    "date": "2026-09-14T11:07:53.000Z",
+    "link": "https://t.me/sm1523/1060"
+  },
+  {
+    "id": "1063",
+    "title": "🎬 5. Creating Sets - Coding",
+    "date": "2026-09-14T11:10:03.000Z",
+    "link": "https://t.me/sm1523/1063"
+  },
+  {
+    "id": "1066",
+    "title": "🎬 6. Common Operations - Lecture",
+    "date": "2026-09-14T11:11:59.000Z",
+    "link": "https://t.me/sm1523/1066"
+  },
+  {
+    "id": "1069",
+    "title": "🎬 7. Common Operations - Coding",
+    "date": "2026-09-14T11:15:07.000Z",
+    "link": "https://t.me/sm1523/1069"
+  },
+  {
+    "id": "1072",
+    "title": "🎬 8. Set Operations - Lecture",
+    "date": "2026-09-14T11:19:43.000Z",
+    "link": "https://t.me/sm1523/1072"
+  },
+  {
+    "id": "1075",
+    "title": "🎬 9. Set Operations - Coding",
+    "date": "2026-09-14T11:20:27.000Z",
+    "link": "https://t.me/sm1523/1075"
+  },
+  {
+    "id": "1078",
+    "title": "🎬 10. Update Operations - Lecture",
+    "date": "2026-09-14T11:22:38.000Z",
+    "link": "https://t.me/sm1523/1078"
+  },
+  {
+    "id": "1081",
+    "title": "🎬 11. Update Operations - Coding",
+    "date": "2026-09-14T11:25:33.000Z",
+    "link": "https://t.me/sm1523/1081"
+  },
+  {
+    "id": "1084",
+    "title": "🎬 12. Copying Sets - Lecture",
+    "date": "2026-09-14T11:25:57.000Z",
+    "link": "https://t.me/sm1523/1084"
+  },
+  {
+    "id": "1087",
+    "title": "🎬 13. Copying Sets - Coding",
+    "date": "2026-09-14T11:27:10.000Z",
+    "link": "https://t.me/sm1523/1087"
+  },
+  {
+    "id": "1090",
+    "title": "🎬 14. Frozen Sets - Lecture",
+    "date": "2026-09-14T11:29:12.000Z",
+    "link": "https://t.me/sm1523/1090"
+  },
+  {
+    "id": "1093",
+    "title": "🎬 15. Frozen Sets - Coding",
+    "date": "2026-09-14T11:32:26.000Z",
+    "link": "https://t.me/sm1523/1093"
+  },
+  {
+    "id": "1096",
+    "title": "🎬 16. Dictionary Views - Lecture",
+    "date": "2026-09-14T11:36:06.000Z",
+    "link": "https://t.me/sm1523/1096"
+  },
+  {
+    "id": "1099",
+    "title": "🎬 17. Dictionary Views - Coding",
+    "date": "2026-09-14T11:40:49.000Z",
+    "link": "https://t.me/sm1523/1099"
+  },
+  {
+    "id": "1103",
+    "title": "🎬 1. Project 1 - Goals",
+    "date": "2026-09-14T11:41:19.000Z",
+    "link": "https://t.me/sm1523/1103"
+  },
+  {
+    "id": "1106",
+    "title": "🎬 2. Project 1 - Solution",
+    "date": "2026-09-14T11:45:13.000Z",
+    "link": "https://t.me/sm1523/1106"
+  },
+  {
+    "id": "1110",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-14T11:46:34.000Z",
+    "link": "https://t.me/sm1523/1110"
+  },
+  {
+    "id": "1112",
+    "title": "🎬 2. Pickling - Lecture",
+    "date": "2026-09-14T11:48:24.000Z",
+    "link": "https://t.me/sm1523/1112"
+  },
+  {
+    "id": "1115",
+    "title": "🎬 3. Pickling - Coding",
+    "date": "2026-09-14T11:54:07.000Z",
+    "link": "https://t.me/sm1523/1115"
+  },
+  {
+    "id": "1118",
+    "title": "🎬 4. JSON Serialization - Lecture",
+    "date": "2026-09-14T11:57:35.000Z",
+    "link": "https://t.me/sm1523/1118"
+  },
+  {
+    "id": "1121",
+    "title": "🎬 5. JSON Serialization - Coding",
+    "date": "2026-09-14T12:03:57.000Z",
+    "link": "https://t.me/sm1523/1121"
+  },
+  {
+    "id": "1124",
+    "title": "🎬 6. Custom JSON Encoding - Lecture",
+    "date": "2026-09-14T12:17:27.000Z",
+    "link": "https://t.me/sm1523/1124"
+  },
+  {
+    "id": "1127",
+    "title": "🎬 7. Custom JSON Encoding - Coding",
+    "date": "2026-09-14T12:22:48.000Z",
+    "link": "https://t.me/sm1523/1127"
+  },
+  {
+    "id": "1130",
+    "title": "🎬 8. Using JSONEncoder - Lecture",
+    "date": "2026-09-14T12:26:45.000Z",
+    "link": "https://t.me/sm1523/1130"
+  },
+  {
+    "id": "1133",
+    "title": "🎬 9. Using JSONEncoder - Coding",
+    "date": "2026-09-14T12:32:24.000Z",
+    "link": "https://t.me/sm1523/1133"
+  },
+  {
+    "id": "1136",
+    "title": "🎬 10. Custom JSON Decoding - Lecture",
+    "date": "2026-09-14T12:38:33.000Z",
+    "link": "https://t.me/sm1523/1136"
+  },
+  {
+    "id": "1139",
+    "title": "🎬 11. Custom JSON Decoding - Coding",
+    "date": "2026-09-14T12:44:53.000Z",
+    "link": "https://t.me/sm1523/1139"
+  },
+  {
+    "id": "1142",
+    "title": "🎬 12. Using JSONDecoder - Lecture",
+    "date": "2026-09-14T12:45:39.000Z",
+    "link": "https://t.me/sm1523/1142"
+  },
+  {
+    "id": "1145",
+    "title": "🎬 13. Using JSONDecoder - Coding",
+    "date": "2026-09-14T12:48:21.000Z",
+    "link": "https://t.me/sm1523/1145"
+  },
+  {
+    "id": "1148",
+    "title": "🎬 14. JSON Schema",
+    "date": "2026-09-14T12:49:29.000Z",
+    "link": "https://t.me/sm1523/1148"
+  },
+  {
+    "id": "1152",
+    "title": "🎬 16. PyYaml",
+    "date": "2026-09-14T12:51:07.000Z",
+    "link": "https://t.me/sm1523/1152"
+  },
+  {
+    "id": "1155",
+    "title": "🎬 17. Serpy",
+    "date": "2026-09-14T12:51:34.000Z",
+    "link": "https://t.me/sm1523/1155"
+  },
+  {
+    "id": "1159",
+    "title": "🎬 1. Exercises",
+    "date": "2026-09-14T12:52:07.000Z",
+    "link": "https://t.me/sm1523/1159"
+  },
+  {
+    "id": "1162",
+    "title": "🎬 2. Solution 1",
+    "date": "2026-09-14T12:53:21.000Z",
+    "link": "https://t.me/sm1523/1162"
+  },
+  {
+    "id": "1165",
+    "title": "🎬 3. Solution 2",
+    "date": "2026-09-14T12:55:18.000Z",
+    "link": "https://t.me/sm1523/1165"
+  },
+  {
+    "id": "1168",
+    "title": "🎬 4. Solution 3",
+    "date": "2026-09-14T12:57:18.000Z",
+    "link": "https://t.me/sm1523/1168"
+  },
+  {
+    "id": "1172",
+    "title": "🎬 1. Introduction",
+    "date": "2026-09-14T12:58:02.000Z",
+    "link": "https://t.me/sm1523/1172"
+  },
+  {
+    "id": "1174",
+    "title": "🎬 2. DefaultDict - Lecture",
+    "date": "2026-09-14T13:00:03.000Z",
+    "link": "https://t.me/sm1523/1174"
+  },
+  {
+    "id": "1177",
+    "title": "🎬 3. DefaultDict - Coding",
+    "date": "2026-09-14T13:03:07.000Z",
+    "link": "https://t.me/sm1523/1177"
+  },
+  {
+    "id": "1180",
+    "title": "🎬 4. OrderedDict - Lecture",
+    "date": "2026-09-14T13:04:21.000Z",
+    "link": "https://t.me/sm1523/1180"
+  },
+  {
+    "id": "1183",
+    "title": "🎬 5. OrderedDict - Coding",
+    "date": "2026-09-14T13:06:42.000Z",
+    "link": "https://t.me/sm1523/1183"
+  },
+  {
+    "id": "1186",
+    "title": "🎬 6. OrderedDict and Python 3.6 Dicts",
+    "date": "2026-09-14T13:07:49.000Z",
+    "link": "https://t.me/sm1523/1186"
+  },
+  {
+    "id": "1189",
+    "title": "🎬 7. Counter - Lecture",
+    "date": "2026-09-14T13:09:25.000Z",
+    "link": "https://t.me/sm1523/1189"
+  },
+  {
+    "id": "1192",
+    "title": "🎬 8. Counter - Coding",
+    "date": "2026-09-14T13:12:34.000Z",
+    "link": "https://t.me/sm1523/1192"
+  },
+  {
+    "id": "1195",
+    "title": "🎬 9. ChainMap - Lecture",
+    "date": "2026-09-14T13:15:54.000Z",
+    "link": "https://t.me/sm1523/1195"
+  },
+  {
+    "id": "1198",
+    "title": "🎬 10. ChainMap - Coding",
+    "date": "2026-09-14T13:19:02.000Z",
+    "link": "https://t.me/sm1523/1198"
+  },
+  {
+    "id": "1201",
+    "title": "🎬 11. UserDict - Lecture",
+    "date": "2026-09-14T13:20:49.000Z",
+    "link": "https://t.me/sm1523/1201"
+  },
+  {
+    "id": "1204",
+    "title": "🎬 12. UserDict - Coding",
+    "date": "2026-09-14T13:24:33.000Z",
+    "link": "https://t.me/sm1523/1204"
+  },
+  {
+    "id": "1208",
+    "title": "🎬 1. Exercises",
+    "date": "2026-09-14T13:25:08.000Z",
+    "link": "https://t.me/sm1523/1208"
+  },
+  {
+    "id": "1211",
+    "title": "🎬 2. Solution 1",
+    "date": "2026-09-14T13:25:31.000Z",
+    "link": "https://t.me/sm1523/1211"
+  },
+  {
+    "id": "1214",
+    "title": "🎬 3. Solution 2",
+    "date": "2026-09-14T13:25:52.000Z",
+    "link": "https://t.me/sm1523/1214"
+  },
+  {
+    "id": "1217",
+    "title": "🎬 4. Solution 3",
+    "date": "2026-09-14T13:27:35.000Z",
+    "link": "https://t.me/sm1523/1217"
+  },
+  {
+    "id": "1221",
+    "title": "🎬 1. Python 3.10",
+    "date": "2026-09-14T13:28:44.000Z",
+    "link": "https://t.me/sm1523/1221"
+  },
+  {
+    "id": "1224",
+    "title": "🎬 2. Python 3.9",
+    "date": "2026-09-14T13:29:44.000Z",
+    "link": "https://t.me/sm1523/1224"
+  },
+  {
+    "id": "1227",
+    "title": "🎬 3. Python 3.8 3.7",
+    "date": "2026-09-14T13:31:04.000Z",
+    "link": "https://t.me/sm1523/1227"
+  },
+  {
+    "id": "1231",
+    "title": "🎬 1. The MappingProxy Type",
+    "date": "2026-09-14T13:31:19.000Z",
+    "link": "https://t.me/sm1523/1231"
+  },
+  {
+    "id": "1234",
+    "title": "🎬 2. Marshmallow",
+    "date": "2026-09-14T13:34:13.000Z",
+    "link": "https://t.me/sm1523/1234"
   }
 ]
