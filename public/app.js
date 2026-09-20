@@ -28,58 +28,85 @@ function formatDate(iso) {
   return new Date(iso).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
 }
 
-function render(items) {
+function renderItem(item, statuses) {
+  const status = statuses[item.id] || "not_watched";
+
+  const li = document.createElement("li");
+  li.className = "item" + (status === "done" ? " done" : "");
+
+  const a = document.createElement("a");
+  a.href = item.link;
+  a.target = "_blank";
+  a.rel = "noopener";
+  a.innerHTML = `${item.title}<span class="date">${formatDate(item.date)}</span>`;
+
+  const select = document.createElement("select");
+  select.className = "status-select";
+  STATUSES.forEach((s) => {
+    const opt = document.createElement("option");
+    opt.value = s.value;
+    opt.textContent = s.label;
+    if (s.value === status) opt.selected = true;
+    select.appendChild(opt);
+  });
+  select.addEventListener("change", () => {
+    saveStatus(item.id, select.value);
+    li.className = "item" + (select.value === "done" ? " done" : "");
+  });
+
+  li.appendChild(a);
+  li.appendChild(select);
+  return li;
+}
+
+function render(groups) {
   const statuses = loadStatuses();
-  const list = document.getElementById("list");
-  list.innerHTML = "";
+  const container = document.getElementById("list");
+  container.innerHTML = "";
 
-  items.forEach((item) => {
-    const status = statuses[item.id] || "not_watched";
+  groups.forEach((group) => {
+    if (group.items.length === 0) return;
 
-    const li = document.createElement("li");
-    li.className = "item" + (status === "done" ? " done" : "");
+    const section = document.createElement("section");
+    section.className = "section";
 
-    const a = document.createElement("a");
-    a.href = item.link;
-    a.target = "_blank";
-    a.rel = "noopener";
-    a.innerHTML = `${item.title}<span class="date">${formatDate(item.date)}</span>`;
+    const heading = document.createElement("h2");
+    heading.className = "section-heading";
+    heading.textContent = group.name;
+    section.appendChild(heading);
 
-    const select = document.createElement("select");
-    select.className = "status-select";
-    STATUSES.forEach((s) => {
-      const opt = document.createElement("option");
-      opt.value = s.value;
-      opt.textContent = s.label;
-      if (s.value === status) opt.selected = true;
-      select.appendChild(opt);
-    });
-    select.addEventListener("change", () => {
-      saveStatus(item.id, select.value);
-      li.className = "item" + (select.value === "done" ? " done" : "");
-    });
+    const ul = document.createElement("ul");
+    ul.className = "list";
+    group.items.forEach((item) => ul.appendChild(renderItem(item, statuses)));
+    section.appendChild(ul);
 
-    li.appendChild(a);
-    li.appendChild(select);
-    list.appendChild(li);
+    container.appendChild(section);
   });
 }
 
-let allItems = [];
+let allGroups = [];
+
+function countItems(groups) {
+  return groups.reduce((sum, g) => sum + g.items.length, 0);
+}
 
 function applyFilter() {
   const statusEl = document.getElementById("status");
   const query = document.getElementById("search").value.trim().toLowerCase();
-  const filtered = query
-    ? allItems.filter((item) => item.title.toLowerCase().includes(query))
-    : allItems;
+  const total = countItems(allGroups);
 
-  if (allItems.length === 0) {
+  const filtered = query
+    ? allGroups
+        .map((g) => ({ name: g.name, items: g.items.filter((i) => i.title.toLowerCase().includes(query)) }))
+        .filter((g) => g.items.length > 0)
+    : allGroups;
+
+  if (total === 0) {
     statusEl.textContent = "No videos found yet. The server may still be syncing — refresh in a bit.";
   } else if (query) {
-    statusEl.textContent = `${filtered.length} of ${allItems.length} videos`;
+    statusEl.textContent = `${countItems(filtered)} of ${total} videos`;
   } else {
-    statusEl.textContent = `${allItems.length} videos`;
+    statusEl.textContent = `${total} videos`;
   }
 
   render(filtered);
@@ -89,7 +116,7 @@ async function main() {
   const statusEl = document.getElementById("status");
   try {
     const res = await fetch("/api/content");
-    allItems = await res.json();
+    allGroups = await res.json();
     applyFilter();
   } catch (err) {
     statusEl.textContent = "Could not load content.";

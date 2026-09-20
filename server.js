@@ -9,6 +9,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const ADMIN_KEY = process.env.ADMIN_KEY || "";
 const DATA_FILE = path.join(__dirname, "data", "content.json");
+const SECTIONS_FILE = path.join(__dirname, "data", "sections.json");
 
 app.use(express.static(path.join(__dirname, "public")));
 
@@ -20,8 +21,40 @@ function loadContent() {
   }
 }
 
+function loadSectionDefs() {
+  try {
+    return JSON.parse(fs.readFileSync(SECTIONS_FILE, "utf8"));
+  } catch {
+    return [];
+  }
+}
+
+// Videos are stored as one flat, chronologically-ordered list (upload order).
+// sections.json says how many videos in a row belong to each named section;
+// anything left over after the known sections are consumed (e.g. other course
+// parts we don't have a breakdown for yet) is kept together at the end.
+function groupContent(items, sectionDefs) {
+  const groups = [];
+  let cursor = 0;
+
+  for (const def of sectionDefs) {
+    const slice = items.slice(cursor, cursor + def.count);
+    if (slice.length === 0) break;
+    groups.push({ name: def.name, items: slice });
+    cursor += def.count;
+  }
+
+  if (cursor < items.length) {
+    groups.push({ name: "📂 Ungrouped", items: items.slice(cursor) });
+  }
+
+  return groups;
+}
+
 app.get("/api/content", (req, res) => {
-  res.json(loadContent());
+  const items = loadContent();
+  const sectionDefs = loadSectionDefs();
+  res.json(groupContent(items, sectionDefs));
 });
 
 app.post("/api/sync", async (req, res) => {
