@@ -30,31 +30,38 @@ function loadSectionDefs() {
 }
 
 // Videos are stored as one flat, chronologically-ordered list (upload order).
-// sections.json says how many videos in a row belong to each named section;
-// anything left over after the known sections are consumed (e.g. other course
-// parts we don't have a breakdown for yet) is kept together at the end.
-function groupContent(items, sectionDefs) {
-  const groups = [];
+// sections.json describes each course part and, within it, how many videos in
+// a row belong to each named section. Anything left over after all known
+// parts/sections are consumed (course parts we don't have a breakdown for
+// yet) is kept together at the end so nothing gets dropped.
+function groupContent(items, partDefs) {
+  const parts = [];
   let cursor = 0;
 
-  for (const def of sectionDefs) {
-    const slice = items.slice(cursor, cursor + def.count);
-    if (slice.length === 0) break;
-    groups.push({ name: def.name, items: slice });
-    cursor += def.count;
+  for (const partDef of partDefs) {
+    const sections = [];
+    for (const def of partDef.sections) {
+      const slice = items.slice(cursor, cursor + def.count);
+      if (slice.length === 0) break;
+      sections.push({ name: def.name, items: slice });
+      cursor += def.count;
+    }
+    if (sections.length > 0) {
+      parts.push({ part: partDef.part, sections });
+    }
   }
 
   if (cursor < items.length) {
-    groups.push({ name: "📂 Ungrouped", items: items.slice(cursor) });
+    parts.push({ part: "🎓 Ungrouped", sections: [{ name: "📂 Ungrouped", items: items.slice(cursor) }] });
   }
 
-  return groups;
+  return parts;
 }
 
 app.get("/api/content", (req, res) => {
   const items = loadContent();
-  const sectionDefs = loadSectionDefs();
-  res.json(groupContent(items, sectionDefs));
+  const partDefs = loadSectionDefs();
+  res.json(groupContent(items, partDefs));
 });
 
 app.post("/api/sync", async (req, res) => {

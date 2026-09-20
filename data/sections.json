@@ -1,13 +1,54 @@
 [
-  { "name": "📂 01. Introduction", "count": 1 },
-  { "name": "📂 02. A Quick Refresher - Basics Review", "count": 10 },
-  { "name": "📂 03. Variables and Memory", "count": 14 },
-  { "name": "📂 04. Numeric Types", "count": 32 },
-  { "name": "📂 05. Function Parameters", "count": 18 },
-  { "name": "📂 06. First-Class Functions", "count": 18 },
-  { "name": "📂 07. Scopes, Closures and Decorators", "count": 21 },
-  { "name": "📂 08. Tuples as Data Structures and Named Tuples", "count": 11 },
-  { "name": "📂 09. Modules, Packages and Namespaces", "count": 16 },
-  { "name": "📂 10. Python Updates", "count": 8 },
-  { "name": "📂 11. Extras", "count": 9 }
+  {
+    "part": "🎓 Python 3 Deep Dive (Part 1 - Functional)",
+    "sections": [
+      { "name": "📂 01. Introduction", "count": 1 },
+      { "name": "📂 02. A Quick Refresher - Basics Review", "count": 10 },
+      { "name": "📂 03. Variables and Memory", "count": 14 },
+      { "name": "📂 04. Numeric Types", "count": 32 },
+      { "name": "📂 05. Function Parameters", "count": 18 },
+      { "name": "📂 06. First-Class Functions", "count": 18 },
+      { "name": "📂 07. Scopes, Closures and Decorators", "count": 21 },
+      { "name": "📂 08. Tuples as Data Structures and Named Tuples", "count": 11 },
+      { "name": "📂 09. Modules, Packages and Namespaces", "count": 16 },
+      { "name": "📂 10. Python Updates", "count": 8 },
+      { "name": "📂 11. Extras", "count": 9 }
+    ]
+  },
+  {
+    "part": "🎓 Python 3 Deep Dive (Part 2 - Iterators, Generators)",
+    "sections": [
+      { "name": "📂 01 - Introduction", "count": 3 },
+      { "name": "📂 02 - Sequence Types", "count": 25 },
+      { "name": "📂 03 - Project 1", "count": 3 },
+      { "name": "📂 04 - Iterables and Iterators", "count": 22 },
+      { "name": "📂 05 - Project 2", "count": 3 },
+      { "name": "📂 06 - Generators", "count": 11 },
+      { "name": "📂 07 - Project 3", "count": 3 },
+      { "name": "📂 08 - Iteration Tools", "count": 20 },
+      { "name": "📂 09 - Project 4", "count": 5 },
+      { "name": "📂 10 - Context Managers", "count": 12 },
+      { "name": "📂 11 - Project 5", "count": 3 },
+      { "name": "📂 12 - Python Updates", "count": 3 },
+      { "name": "📂 13 - Generators as Coroutines (DEPRECATED)", "count": 25 },
+      { "name": "📂 14 - Project 6 (DEPRECATED)", "count": 2 }
+    ]
+  },
+  {
+    "part": "🎓 Python 3 Deep Dive (Part 3 - Dictionaries, Sets, JSON)",
+    "sections": [
+      { "name": "📂 01. Introduction", "count": 2 },
+      { "name": "📂 02. Associative Arrays - Theory!", "count": 5 },
+      { "name": "📂 03. Dictionaries", "count": 11 },
+      { "name": "📂 04. Coding Exercises", "count": 5 },
+      { "name": "📂 05. Sets", "count": 17 },
+      { "name": "📂 06. Project 1", "count": 2 },
+      { "name": "📂 07. Serialization and Deserialization", "count": 16 },
+      { "name": "📂 08. Coding Exercises", "count": 4 },
+      { "name": "📂 09. Specialized Dictionaries", "count": 12 },
+      { "name": "📂 10. Coding Exercises", "count": 4 },
+      { "name": "📂 11. Python Updates", "count": 3 },
+      { "name": "📂 12. Extras", "count": 2 }
+    ]
+  }
 ]
