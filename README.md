@@ -11,9 +11,12 @@ dropdown (Not watched / In progress / Done) saved in your browser.
 - `sync.js` — uses that session to read the channel's message history and
   pull out every video (message id, caption as title, date, and a direct
   `t.me/<channel>/<id>` link).
-- `server.js` — Express app. Serves the webpage, serves the video list as
-  JSON, and re-syncs the channel automatically every few hours (schedule set
-  by `SYNC_CRON`).
+- `server.js` — Express app. Serves the webpage and the video list as JSON.
+  It only talks to Telegram (initial sync + the `SYNC_CRON` schedule) if
+  `TG_SESSION` is set in its environment. **On the deployed server, leave
+  `TG_SESSION` unset** — your Telegram login only ever needs to run on your
+  own machine. Sync locally, then commit and push the resulting
+  `data/content.json`; the live server just serves that file.
 - Watch status is **not** stored on the server — it's saved in the visitor's
   browser (`localStorage`). That's intentional: free hosting tiers wipe the
   server's disk on redeploy/restart, but data in the browser survives that.
@@ -45,8 +48,11 @@ so keep `.env` private (it's already git-ignored).
 npm run sync
 ```
 
-This writes `data/content.json`. You can rerun it any time; it also runs
-automatically on server start and on the `SYNC_CRON` schedule.
+This writes `data/content.json`, which is committed to the repo — the
+deployed server serves this file directly and never needs your Telegram
+session. Whenever the channel has new videos, run `npm run sync` again
+locally, then `git add data/content.json && git commit && git push` to
+update the live site.
 
 ## 3. Run it locally
 
@@ -60,17 +66,18 @@ Open http://localhost:3000.
 
 **Render.com (recommended, easiest)**
 
-1. Push this folder to a GitHub repo (make sure `.env` is *not* committed —
-   `.gitignore` already excludes it).
+1. Push this folder to a GitHub repo, with `data/content.json` committed
+   (make sure `.env` is *not* committed — `.gitignore` already excludes it).
 2. On Render: New → Web Service → connect the repo.
 3. Build command: `npm install`. Start command: `npm start`.
-4. Add environment variables from your local `.env` (`TG_API_ID`,
-   `TG_API_HASH`, `TG_PHONE`, `TG_CHANNEL`, `TG_SESSION`, `ADMIN_KEY`, etc.)
-   in Render's dashboard — don't put them in the repo.
+4. Don't set any `TG_*` env vars on Render at all — the server runs fine
+   without them and just serves the committed `data/content.json`. Your
+   Telegram session stays only on your own machine.
 5. Free web services on Render sleep after ~15 minutes idle and wake up
    slowly on the next request, and the disk is not persistent across
-   deploys. Neither matters much here: the app re-syncs from Telegram on
-   every boot, and status lives in the browser, not on disk.
+   deploys. Neither matters here: the content is a static file in the repo,
+   not something the server fetches itself, and status lives in the
+   browser, not on disk.
 
 **If you want it to never sleep:** the only *actually* free-forever,
 always-on option is a small VM on a cloud "always free" tier — Oracle
