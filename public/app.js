@@ -122,9 +122,33 @@ function render(parts) {
 }
 
 let allParts = [];
+let activeTab = 0;
 
 function countAllItems(parts) {
   return parts.reduce((sum, p) => sum + partItemCount(p), 0);
+}
+
+function tabLabel(partName) {
+  const match = partName.match(/\(([^)]+)\)/);
+  return match ? match[1] : partName;
+}
+
+function renderTabs() {
+  const tabsEl = document.getElementById("tabs");
+  tabsEl.innerHTML = "";
+
+  allParts.forEach((part, i) => {
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "tab" + (i === activeTab ? " active" : "");
+    btn.textContent = tabLabel(part.part);
+    btn.addEventListener("click", () => {
+      activeTab = i;
+      document.getElementById("search").value = "";
+      refresh();
+    });
+    tabsEl.appendChild(btn);
+  });
 }
 
 function renderOverallProgress() {
@@ -138,36 +162,42 @@ function renderOverallProgress() {
   if (total > 0) holder.appendChild(renderProgressBar(done, total));
 }
 
+function filterParts(parts, query) {
+  if (!query) return parts;
+  return parts
+    .map((p) => ({
+      part: p.part,
+      sections: p.sections
+        .map((s) => ({ name: s.name, items: s.items.filter((i) => i.title.toLowerCase().includes(query)) }))
+        .filter((s) => s.items.length > 0),
+    }))
+    .filter((p) => p.sections.length > 0);
+}
+
 function applyFilter() {
   const statusEl = document.getElementById("status");
   const query = document.getElementById("search").value.trim().toLowerCase();
   const total = countAllItems(allParts);
 
-  const filtered = query
-    ? allParts
-        .map((p) => ({
-          part: p.part,
-          sections: p.sections
-            .map((s) => ({ name: s.name, items: s.items.filter((i) => i.title.toLowerCase().includes(query)) }))
-            .filter((s) => s.items.length > 0),
-        }))
-        .filter((p) => p.sections.length > 0)
-    : allParts;
-
+  // A search query searches every course, regardless of the active tab.
+  // With no query, only the active tab's course is shown.
+  const scope = query ? allParts : allParts.slice(activeTab, activeTab + 1);
+  const filtered = filterParts(scope, query);
   const filteredTotal = countAllItems(filtered);
 
   if (total === 0) {
     statusEl.textContent = "No videos found yet. The server may still be syncing — refresh in a bit.";
   } else if (query) {
-    statusEl.textContent = `${filteredTotal} of ${total} videos`;
+    statusEl.textContent = `${filteredTotal} of ${total} videos (searching all courses)`;
   } else {
-    statusEl.textContent = `${total} videos`;
+    statusEl.textContent = `${filteredTotal} videos`;
   }
 
   render(filtered);
 }
 
 function refresh() {
+  renderTabs();
   applyFilter();
   renderOverallProgress();
 }
