@@ -3,6 +3,7 @@ const express = require("express");
 const fs = require("fs");
 const path = require("path");
 const cron = require("node-cron");
+const { Redis } = require("@upstash/redis");
 const { sync } = require("./sync");
 
 const app = express();
@@ -11,7 +12,28 @@ const ADMIN_KEY = process.env.ADMIN_KEY || "";
 const DATA_FILE = path.join(__dirname, "data", "content.json");
 const SECTIONS_FILE = path.join(__dirname, "data", "sections.json");
 
+// Progress storage: keyed by whatever email the visitor typed in, with no
+// password check. This is a convenience identifier, not authentication —
+// anyone who knows (or guesses) an email can see and edit that progress.
+// Needs a free Upstash Redis database (see README) so it survives redeploys;
+// without it, progress just isn't saved server-side.
+const redis =
+  process.env.UPSTASH_REDIS_REST_URL && process.env.UPSTASH_REDIS_REST_TOKEN
+    ? new Redis({
+        url: process.env.UPSTASH_REDIS_REST_URL,
+        token: process.env.UPSTASH_REDIS_REST_TOKEN,
+      })
+    : null;
+
+const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+function normalizeEmail(raw) {
+  const email = String(raw || "").trim().toLowerCase();
+  return EMAIL_RE.test(email) ? email : null;
+}
+
 app.use(express.static(path.join(__dirname, "public")));
+app.use(express.json());
 
 function loadContent() {
   try {
@@ -62,6 +84,33 @@ app.get("/api/content", (req, res) => {
   const items = loadContent();
   const partDefs = loadSectionDefs();
   res.json(groupContent(items, partDefs));
+});
+
+app.get("/api/progress/:email", async (req, res) => {
+  if (!redis) return res.status(503).json({ error: "progress storage not configured" });
+  const email = normalizeEmail(req.params.email);
+  if (!email) return res.status(400).json({ error: "invalid email" });
+  try {
+    const data = await redis.get(`progress:${email}`);
+    res.json(data || {});
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.put("/api/progress/:email", async (req, res) => {
+  if (!redis) return res.status(503).json({ error: "progress storage not configured" });
+  const email = normalizeEmail(req.params.email);
+  if (!email) return res.status(400).json({ error: "invalid email" });
+  if (typeof req.body !== "object" || req.body === null || Array.isArray(req.body)) {
+    return res.status(400).json({ error: "body must be a status map" });
+  }
+  try {
+    await redis.set(`progress:${email}`, req.body);
+    res.json({ ok: true });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
 });
 
 app.post("/api/sync", async (req, res) => {

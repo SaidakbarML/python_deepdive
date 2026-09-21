@@ -1,25 +1,51 @@
-const STATUS_KEY = "course-tracker-status";
+const EMAIL_KEY = "course-tracker-email";
 const STATUSES = [
   { value: "not_watched", label: "Not watched" },
   { value: "in_progress", label: "In progress" },
   { value: "done", label: "Done" },
 ];
 
-function loadStatuses() {
+// Progress lives on the server, keyed by whatever email the visitor typed in
+// (no password) — this is what makes it follow you across devices. `email`
+// and `statuses` are populated by loadProgress() before anything renders.
+let email = "";
+let statuses = {};
+let progressError = "";
+
+const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+function escapeHtml(str) {
+  const div = document.createElement("div");
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+async function loadProgress() {
+  progressError = "";
+  if (!email) {
+    statuses = {};
+    return;
+  }
   try {
-    return JSON.parse(localStorage.getItem(STATUS_KEY)) || {};
-  } catch {
-    return {};
+    const res = await fetch(`/api/progress/${encodeURIComponent(email)}`);
+    if (!res.ok) throw new Error(`status ${res.status}`);
+    statuses = await res.json();
+  } catch (err) {
+    statuses = {};
+    progressError = "Couldn't load your saved progress — the server's progress storage may not be set up yet.";
   }
 }
 
-function saveStatus(id, value) {
-  const all = loadStatuses();
-  all[id] = value;
+async function persistProgress() {
+  if (!email) return;
   try {
-    localStorage.setItem(STATUS_KEY, JSON.stringify(all));
+    await fetch(`/api/progress/${encodeURIComponent(email)}`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(statuses),
+    });
   } catch {
-    // localStorage unavailable (private browsing, etc.) — status just won't persist.
+    // Best-effort — the dropdown still reflects the change locally either way.
   }
 }
 
@@ -47,7 +73,7 @@ function renderProgressBar(done, total) {
   return wrap;
 }
 
-function renderItem(item, statuses) {
+function renderItem(item) {
   const status = statuses[item.id] || "not_watched";
 
   const li = document.createElement("li");
@@ -61,6 +87,8 @@ function renderItem(item, statuses) {
 
   const select = document.createElement("select");
   select.className = "status-select";
+  select.disabled = !email;
+  select.title = email ? "" : "Enter your email above to save progress";
   STATUSES.forEach((s) => {
     const opt = document.createElement("option");
     opt.value = s.value;
@@ -69,9 +97,10 @@ function renderItem(item, statuses) {
     select.appendChild(opt);
   });
   select.addEventListener("change", () => {
-    saveStatus(item.id, select.value);
+    statuses[item.id] = select.value;
     li.className = "item" + (select.value === "done" ? " done" : "");
-    refresh();
+    persistProgress();
+    renderOverallProgress();
   });
 
   li.appendChild(a);
@@ -80,7 +109,6 @@ function renderItem(item, statuses) {
 }
 
 function render(parts) {
-  const statuses = loadStatuses();
   const container = document.getElementById("list");
   container.innerHTML = "";
 
@@ -111,7 +139,7 @@ function render(parts) {
 
       const ul = document.createElement("ul");
       ul.className = "list";
-      section.items.forEach((item) => ul.appendChild(renderItem(item, statuses)));
+      section.items.forEach((item) => ul.appendChild(renderItem(item)));
       sectionEl.appendChild(ul);
 
       partEl.appendChild(sectionEl);
@@ -153,13 +181,55 @@ function renderTabs() {
 
 function renderOverallProgress() {
   const total = countAllItems(allParts);
-  const statuses = loadStatuses();
   const allItems = allParts.flatMap((p) => p.sections.flatMap((s) => s.items));
   const done = countDone(allItems, statuses);
 
   const holder = document.getElementById("overall-progress");
   holder.innerHTML = "";
   if (total > 0) holder.appendChild(renderProgressBar(done, total));
+}
+
+function renderAccount() {
+  const el = document.getElementById("account");
+  el.innerHTML = "";
+
+  if (email) {
+    el.innerHTML = `
+      <span>Tracking progress as <strong>${escapeHtml(email)}</strong></span>
+      <button type="button" id="switch-email" class="link-btn">switch</button>
+    `;
+    document.getElementById("switch-email").addEventListener("click", () => {
+      email = "";
+      localStorage.removeItem(EMAIL_KEY);
+      statuses = {};
+      renderAccount();
+      refresh();
+    });
+    return;
+  }
+
+  el.innerHTML = `
+    <input type="email" id="email-input" placeholder="you@example.com" autocomplete="email" />
+    <button type="button" id="email-submit">Track my progress</button>
+    <div class="account-hint">
+      No password — this just remembers your progress by email so it follows you
+      to other devices. Anyone who knows the email could see or change that
+      progress, so use one only you'd think to type here.
+    </div>
+  `;
+  document.getElementById("email-submit").addEventListener("click", async () => {
+    const value = document.getElementById("email-input").value.trim().toLowerCase();
+    if (!EMAIL_RE.test(value)) {
+      alert("Enter a valid email address.");
+      return;
+    }
+    email = value;
+    localStorage.setItem(EMAIL_KEY, email);
+    await loadProgress();
+    renderAccount();
+    refresh();
+    if (progressError) alert(progressError);
+  });
 }
 
 function filterParts(parts, query) {
@@ -204,10 +274,14 @@ function refresh() {
 
 async function main() {
   const statusEl = document.getElementById("status");
+  email = localStorage.getItem(EMAIL_KEY) || "";
+  renderAccount();
+
   try {
-    const res = await fetch("/api/content");
-    allParts = await res.json();
+    const [content] = await Promise.all([fetch("/api/content").then((r) => r.json()), loadProgress()]);
+    allParts = content;
     refresh();
+    if (progressError) statusEl.textContent = progressError;
   } catch (err) {
     statusEl.textContent = "Could not load content.";
   }
