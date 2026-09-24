@@ -36,17 +36,27 @@ async function loadProgress() {
   }
 }
 
-async function persistProgress() {
-  if (!email) return;
-  try {
-    await fetch(`/api/progress/${encodeURIComponent(email)}`, {
+// Each dropdown change fires a PUT of the *entire* status map. If these ran
+// concurrently, out-of-order network completions could let an older, smaller
+// snapshot overwrite a newer one server-side and silently drop recent
+// changes. Chaining them ensures only one PUT is ever in flight, executed in
+// the order they were made, each one reading the live `statuses` at send
+// time so it carries every edit made up to that point.
+let persistChain = Promise.resolve();
+
+function persistProgress() {
+  if (!email) return persistChain;
+  const targetEmail = email;
+  persistChain = persistChain.then(() =>
+    fetch(`/api/progress/${encodeURIComponent(targetEmail)}`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(statuses),
-    });
-  } catch {
-    // Best-effort — the dropdown still reflects the change locally either way.
-  }
+    }).catch(() => {
+      // Best-effort — the dropdown still reflects the change locally either way.
+    })
+  );
+  return persistChain;
 }
 
 function formatDate(iso) {
